@@ -1,0 +1,2 @@
+ language   , dataset                     , dataset_column   , dataset_name   , dataset_split   ,   target_vocab_size ,   min_frequency 
+ es         , vocabtrimmer/mc4_validation , text             , es             , validation      ,30000,2

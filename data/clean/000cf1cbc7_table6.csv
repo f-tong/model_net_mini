@@ -1,0 +1,6 @@
+           Groups           ,Version,Filter, Metric ,   ,Value ,   .1,Stderr
+tmmluplus                   ,2,none  ,acc     ,↑  ,0.586,±  ,0.0034
+ - tmmluplus_STEM           ,2,none  ,acc     ,↑  ,0.6011,±  ,0.0081
+ - tmmluplus_humanities     ,2,none  ,acc     ,↑  ,0.4838,±  ,0.0116
+ - tmmluplus_other          ,2,none  ,acc     ,↑  ,0.5639,±  ,0.0051
+ - tmmluplus_social_sciences,2,none  ,acc     ,↑  ,0.6405,±  ,0.0061

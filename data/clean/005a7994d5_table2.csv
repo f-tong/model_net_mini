@@ -1,0 +1,6 @@
+Model , Size, hellaswag , arc_challenge , MMLU
+ Llama-2-chat , 7B ,  78.55% ,  52.9% , 48.32% 
+ Llama-2-chat , 13B ,  81.94% ,  59.04% , 54.64% 
+ Trurl 2.0 (with MMLU) , 13B , 80.09% , 59.30% , 78.35% 
+ Trurl 2.0 (no MMLU) , 13B , TO-DO , TO-DO , TO-DO
+ Trurl 2.0 (no MMLU) , 7b , 75.29% , 53.41%, 50.0%

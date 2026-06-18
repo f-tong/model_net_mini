@@ -1,0 +1,12 @@
+ Model                          , ClemScore , StatScore 
+ Llama-3-8b-sft                      ,42.68,53.25
+ Llama-3-8b-sft-initial              ,33.86,55.62
+ Llama-3-8b-grpo                   ,32.82,57.86
+ Llama-3.1-8B-Instruct (base)        ,29.05,55.45
+ Llama-3-8b-sft-dpo                  ,28.32,55.58
+ Llama-3-8b-sft-grpo               ,26.68,57.74
+ Llama-3-8b-sft-dpo_tulu_only      ,23.68,58.04
+ Llama-3-8b-dpo_clean                      ,17.57,52.83
+ Tulu3-8b-SFT                        ,4.77,55.51
+ Tulu3-8b-DPO                        ,3.66,56.16
+ Tulu3-8b                            ,2.41,57.43

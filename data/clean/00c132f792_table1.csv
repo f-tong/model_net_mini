@@ -1,0 +1,5 @@
+Method       ,WikitextPPL (↓),Delta 
+float16      ,8.7071,0.0
+AWQ          ,8.976,0.2689
+NuGPTQ (This),9.2754,0.5683
+GPTQ†        ,9.4686,0.7615

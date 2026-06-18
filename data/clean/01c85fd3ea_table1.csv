@@ -1,0 +1,7 @@
+                          Model                           ,AGIEval,GPT4All,TruthfulQA,Bigbench,Average
+[Beagle14-7B](https://huggingface.co/mlabonne/Beagle14-7B),44.38,76.53,69.44,47.25,59.4
+[OpenHermes-2.5-Mistral-7B](https://huggingface.co/teknium/OpenHermes-2.5-Mistral-7B),42.75,72.99,52.99,40.94,52.42
+[NeuralHermes-2.5-Mistral-7B](https://huggingface.co/mlabonne/NeuralHermes-2.5-Mistral-7B),43.67,73.24,55.37,41.76,53.51
+[Nous-Hermes-2-SOLAR-10.7B](https://huggingface.co/NousResearch/Nous-Hermes-2-SOLAR-10.7B),47.79,74.69,55.92,44.84,55.81
+[Marcoro14-7B-slerp](https://huggingface.co/mlabonne/Marcoro14-7B-slerp)       ,44.66,76.24,64.15,45.64,57.67
+[CatMarcoro14-7B-slerp](https://huggingface.co/occultml/CatMarcoro14-7B-slerp),45.21,75.91,63.81,47.31,58.06

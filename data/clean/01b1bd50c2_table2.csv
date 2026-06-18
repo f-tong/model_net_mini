@@ -1,0 +1,5 @@
+ Model                  , Z1-Coder-7B                  , Qwen2.5-Coder-7B-Ins                     
+ Base Model             , Qwen2.5-Coder-7B             , Qwen2.5-Coder-7B                         
+ SFT Data stage 1     , 110K (open-source)           , 10M+ (open-source and in-house)          
+ SFT Data stage 2     , 20K (open-source)            , 1M+ (in-house)                           
+ Offline RL             , No                           , DPO                                      

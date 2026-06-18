@@ -1,0 +1,12 @@
+ Metric         , BF16(lm-eval 0.4.5) , INT4   
+ Avg            ,0.66,0.6564
+ arc_challenge  ,0.5392,0.5418
+ arc_easy       ,0.8089,0.8152
+ boolq          ,0.8645,0.859
+ hellaswag      ,0.652,0.6478
+ lambada_openai ,0.6697,0.6773
+ mmlu           ,0.7982,0.794
+ openbookqa     ,0.354,0.334
+ piqa           ,0.7947,0.7976
+ truthfulqa_mc1 ,0.4211,0.4113
+ winorgrande    ,0.6977,0.6859

@@ -1,0 +1,9 @@
+        Setting        , Average<br>Sparsity , Activation<br>Recall , Predicted<br>Sparsity , PowerInfer<br>Speed , Speedup<br>to Dense , S2<br>Time , Speedup<br>to Dense .1, S3<br/>Time , Speedup<br/>to Dense 
+ Dense-7B , - , - , - , 3.67 , 1.00 ,90.55,1.0,82.92,1.0
+     ReluLLaMA-7B      ,        66.98        ,        90.89         ,         58.95         ,        11.37        , 3.10 ,67.12,1.35,63.0,1.32
+ ProSparse-7B\  ,        88.11        ,      93.46       ,         75.24         ,        16.30        , 4.44 ,46.66,1.94,55.56,1.49
+   ProSparse-7B    ,      89.32      ,        92.34         ,       78.75       ,          -          , - ,45.38,2.0,55.05,1.51
+ Dense-13B , - , - , - , 1.92 , 1.00 ,131.36,1.0,113.68,1.0
+     ReluLLaMA-13B     ,        71.56        ,        86.41         ,         71.93         ,        6.59         , 3.43 ,69.92,1.88,75.47,1.51
+ ProSparse-13B\ ,        87.97        ,        91.02         ,         77.93         ,        8.67         , 4.52 ,55.29,2.38,67.5,1.68
+   ProSparse-13B   ,        88.80        ,        91.11         ,         78.28         ,          -          , - ,53.78,2.44,66.73,1.7

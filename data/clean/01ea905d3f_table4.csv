@@ -1,0 +1,18 @@
+                                           ,   precision ,   recall ,   f1-score ,     support 
+" arts, culture, entertainment and media    ",0.602151,0.875,0.713376,64
+" conflict, war and peace                   ",0.611111,0.916667,0.733333,36
+" crime, law and justice                    ",0.861538,0.811594,0.835821,69
+" disaster, accident and emergency incident ",0.691176,0.886792,0.77686,53
+" economy, business and finance             ",0.779221,0.508475,0.615385,118
+ education                                 ,0.847458,0.735294,0.787402,68
+ environment                               ,0.589041,0.754386,0.661538,57
+ health                                    ,0.79661,0.79661,0.79661,59
+ human interest                            ,0.552239,0.672727,0.606557,55
+ labour                                    ,0.855072,0.830986,0.842857,71
+ lifestyle and leisure                     ,0.773585,0.476744,0.589928,86
+ politics                                  ,0.568182,0.735294,0.641026,68
+ religion                                  ,0.842105,0.941176,0.888889,51
+ science and technology                    ,0.637681,0.8,0.709677,55
+ society                                   ,0.918033,0.5,0.647399,112
+ sport                                     ,0.824324,0.968254,0.890511,63
+ weather                                   ,0.953488,0.931818,0.942529,44

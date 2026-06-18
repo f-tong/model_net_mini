@@ -1,0 +1,3 @@
+ Model Name     , Description                      , #Param   ,Huggingface 
+ OpenMoE-8B(1.1T)   , 8B MoE with comparable FLOPs of a 2B LLaMA(No SFT)  ,8B        ,[Link](https://huggingface.co/OrionZheng/openmoe-8b) 
+ OpenMoE-8B-Chat (1.1T+SFT)   , OpenMoE-8B-1.1T supervised finetuned on the [WildChat GPT-4 Subset](https://huggingface.co/datasets/allenai/WildChat-nontoxic)   ,8B        ,[Link](https://huggingface.co/OrionZheng/openmoe-8b-chat) 

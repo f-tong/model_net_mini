@@ -1,0 +1,9 @@
+ Model Name     , Description                      , #Param   ,Huggingface 
+ OpenMoE-34B-200B   ,  34B MoE with comparable FLOPs of a 7B LLaMA(No SFT)  ,34B        ,[Link](https://huggingface.co/OrionZheng/openmoe-34b-200B) 
+ OpenMoE-8B-200B   , 8B MoE with comparable FLOPs of a 2B LLaMA(No SFT) ,8B        ,[Link](https://huggingface.co/OrionZheng/openmoe-8b-200B) 
+ OpenMoE-8B-400B   , 8B MoE with comparable FLOPs of a 2B LLaMA(No SFT)  ,8B        ,[Link](https://huggingface.co/OrionZheng/openmoe-8b-400B) 
+ OpenMoE-8B-600B   , 8B MoE with comparable FLOPs of a 2B LLaMA(No SFT) ,8B        ,[Link](https://huggingface.co/OrionZheng/openmoe-8b-600B) 
+ OpenMoE-8B-800B   , 8B MoE with comparable FLOPs of a 2B LLaMA(No SFT)  ,8B        ,[Link](https://huggingface.co/OrionZheng/openmoe-8b-800B) 
+ OpenMoE-8B-1T   , 8B MoE with comparable FLOPs of a 2B LLaMA(No SFT)  ,8B        ,[Link](https://huggingface.co/OrionZheng/openmoe-8b-1T) 
+ OpenMoE-base(128B)   , A small MoE model for debugging only       ,637M      ,[Link](https://huggingface.co/OrionZheng/openmoe-base) 
+ OpenLLaMA-base(128B) , A dense counter-part of OpenMoE-base            ,310M      ,[Link](https://huggingface.co/fuzhao/OpenLLaMA_Base) 

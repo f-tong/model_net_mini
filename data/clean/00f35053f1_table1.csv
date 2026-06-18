@@ -1,0 +1,8 @@
+             Metric              ,Value
+Avg.                             ,73.03
+AI2 Reasoning Challenge (25-Shot),70.65
+HellaSwag (10-Shot)              ,87.94
+MMLU (5-Shot)                    ,64.67
+TruthfulQA (0-shot)              ,67.45
+Winogrande (5-shot)              ,84.69
+GSM8k (5-shot)                   ,62.77

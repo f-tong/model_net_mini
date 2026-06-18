@@ -1,0 +1,9 @@
+ Metric                , Value                     
+ Avg.                  ,30.26
+ ARC (25-shot)         ,30.97
+ HellaSwag (10-shot)   ,51.42
+ MMLU (5-shot)         ,26.17
+ TruthfulQA (0-shot)   ,40.31
+ Winogrande (5-shot)   ,56.75
+ GSM8K (5-shot)        ,1.59
+ DROP (3-shot)         ,4.64

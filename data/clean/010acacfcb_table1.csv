@@ -1,0 +1,11 @@
+                  ,   Score , Type    , Dataset                                                          
+ AnswerExactMatch ,69.49, default , [lmqg/qg_koquad](https://huggingface.co/datasets/lmqg/qg_koquad) 
+ AnswerF1Score    ,77.32, default , [lmqg/qg_koquad](https://huggingface.co/datasets/lmqg/qg_koquad) 
+ BERTScore        ,91.76, default , [lmqg/qg_koquad](https://huggingface.co/datasets/lmqg/qg_koquad) 
+ Bleu_1           ,59.38, default , [lmqg/qg_koquad](https://huggingface.co/datasets/lmqg/qg_koquad) 
+ Bleu_2           ,48.34, default , [lmqg/qg_koquad](https://huggingface.co/datasets/lmqg/qg_koquad) 
+ Bleu_3           ,34.11, default , [lmqg/qg_koquad](https://huggingface.co/datasets/lmqg/qg_koquad) 
+ Bleu_4           ,20.6, default , [lmqg/qg_koquad](https://huggingface.co/datasets/lmqg/qg_koquad) 
+ METEOR           ,51.78, default , [lmqg/qg_koquad](https://huggingface.co/datasets/lmqg/qg_koquad) 
+ MoverScore       ,90.78, default , [lmqg/qg_koquad](https://huggingface.co/datasets/lmqg/qg_koquad) 
+ ROUGE_L          ,72.57, default , [lmqg/qg_koquad](https://huggingface.co/datasets/lmqg/qg_koquad) 

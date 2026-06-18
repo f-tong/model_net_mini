@@ -1,0 +1,9 @@
+ Stage , Llama 3.1 8B 
+ Base Model , [meta-llama/llama-3.1-8B-Instruct](https://huggingface.co/meta-llama/llama-3.1-8B-Instruct) 
+ SFT_initial , [pm-25/llama3-8b-sft-initial](https://huggingface.co/pm-25/llama3-8b-sft-initial) 
+ SFT_final , [pm-25/llama3-8b-sft](https://huggingface.co/pm-25/llama3-8b-sft) 
+ DPO , [pm-25/llama3-8b-dpo_clean](https://huggingface.co/pm-25/llama3-8b-dpo_clean) 
+ SFT + DPO , [pm-25/llama3-8b-sft-dpo](https://huggingface.co/pm-25/llama3-8b-sft-dpo) 
+ SFT + DPO_tulu_data_only , [pm-25/llama3-8b-sft-dpo-tulu-only](https://huggingface.co/pm-25/llama3-8b-sft-dpo-tulu-only) 
+ GRPO , [pm-25/llama3-8b-grpo](https://huggingface.co/pm-25/llama3-8b-grpo) 
+ SFT + GRPO , [pm-25/llama3-8b-sft-grpo](https://huggingface.co/pm-25/llama3-8b-sft-grpo) 

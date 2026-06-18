@@ -1,0 +1,7 @@
+ Model                              , TheoremQA , MATH , GSM8K , GPQA , MMLU-ST , BBH , ARC-C , Avg 
+ MAmmoTH2-7B (Updated)              ,29.0,36.7,68.4,32.4,62.4,58.6,81.7,52.7
+ MAmmoTH2-8B (Updated)              ,30.3,35.8,70.4,35.2,64.2,62.1,82.2,54.3
+ MAmmoTH2-8x7B                      ,32.2,39.0,75.4,36.8,67.4,71.1,87.5,58.9
+ MAmmoTH2-7B-Plus (Updated)         ,31.2,46.0,84.6,33.8,63.8,63.3,84.4,58.1
+ MAmmoTH2-8B-Plus (Updated)         ,31.5,43.0,85.2,35.8,66.7,69.7,84.3,59.4
+ MAmmoTH2-8x7B-Plus                 ,34.1,47.0,86.4,37.8,72.4,74.1,88.4,62.9

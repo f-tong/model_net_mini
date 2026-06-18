@@ -1,0 +1,4 @@
+       Mode       , content token , style token ,               Other               
+     csgo.bin     ,4,16,                 -                 
+  csgo_4_32.bin   ,4,32,          Deepspeed zero2          
+ csgo_4_32_v2.bin ,4,32, Deepspeed zero2+more(coming soon) 

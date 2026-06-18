@@ -1,0 +1,9 @@
+                , Summarization    , Translation       
+        Dataset , CNN Dailymail NL , CCMatrix en -> nl 
+ #train samples , 50K              , 50K               
+      Optimizer , Adam             , Adam              
+  learning rate , 0.001            , 0.0005            
+  source length , 1024             , 128               
+  target length , 142              , 128               
+label smoothing , 0.05             , 0.1               
+  #eval samples , 1000             , 1000              

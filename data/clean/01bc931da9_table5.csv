@@ -1,0 +1,5 @@
+  , Param Size , Sequence Length 
+ tohoku-nlp/tohokunlp-bert-500m-sq4096-alpha , 581 M ," 4,096 "
+ tohoku-nlp/tohokunlp-bert-500m-sq8192-alpha , 581 M ," 8,192 "
+ [tohoku-nlp/bert-base-japanese-v3](https://huggingface.co/tohoku-nlp/bert-base-japanese-v3) , 136 M , 512 
+ [retrieva-jp/bert-1.3b](https://huggingface.co/retrieva-jp/bert-1.3b) , 1.45 B ," 2,048 "

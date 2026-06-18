@@ -1,0 +1,38 @@
+                  Tasks                  ,Version,Filter,n-shot,Metric,   ,Value ,   .1,Stderr
+TMLU                                     ,      1,none  ,,acc   ,↑  ,0.6827,±  ,0.0087
+ - Humanities                            ,    N/A,none  ,,acc   ,↑  ,0.7583,±  ,0.0142
+  - AST chinese                          ,    0.1,none  ,     0,acc   ,↑  ,0.7698,±  ,0.0376
+  - AST history                          ,    0.1,none  ,     0,acc   ,↑  ,0.8431,±  ,0.0514
+  - CAP chinese                          ,    0.1,none  ,     0,acc   ,↑  ,0.8393,±  ,0.0495
+  - CAP history                          ,    0.1,none  ,     0,acc   ,↑  ,0.9608,±  ,0.0275
+  - GSAT chinese                         ,    0.1,none  ,     0,acc   ,↑  ,0.7391,±  ,0.046
+  - GSAT history                         ,    0.1,none  ,     0,acc   ,↑  ,0.8375,±  ,0.0415
+  - lawyer qualification                 ,    0.1,none  ,     0,acc   ,↑  ,0.5182,±  ,0.0302
+  - tour guide                           ,    0.1,none  ,     0,acc   ,↑  ,0.5957,±  ,0.0509
+  - tour leader                          ,    0.1,none  ,     0,acc   ,↑  ,0.7214,±  ,0.038
+ - Other                                 ,    N/A,none  ,,acc   ,↑  ,0.6263,±  ,0.0262
+  - basic traditional chinese medicine   ,    0.1,none  ,     0,acc   ,↑  ,0.5519,±  ,0.0402
+  - clinical traditional chinese medicine,    0.1,none  ,     0,acc   ,↑  ,0.6486,±  ,0.0559
+  - nutritionist                         ,    0.1,none  ,     0,acc   ,↑  ,0.6783,±  ,0.0438
+ - Social Sciences                       ,    N/A,none  ,,acc   ,↑  ,0.7203,±  ,0.0188
+  - AST civics                           ,    0.1,none  ,     0,acc   ,↑  ,0.5577,±  ,0.0695
+  - AST geography                        ,    0.1,none  ,     0,acc   ,↑  ,0.8113,±  ,0.0543
+  - CAP civics                           ,    0.1,none  ,     0,acc   ,↑  ,0.7941,±  ,0.0494
+  - CAP geography                        ,    0.1,none  ,     0,acc   ,↑  ,0.8,±  ,0.0641
+  - GSAT civics                          ,    0.1,none  ,     0,acc   ,↑  ,0.6912,±  ,0.0564
+  - GSAT geography                       ,    0.1,none  ,     0,acc   ,↑  ,0.7955,±  ,0.0615
+  - accountant                           ,    0.1,none  ,     0,acc   ,↑  ,0.5,±  ,0.0475
+  - clinical psychologist                ,    0.1,none  ,     0,acc   ,↑  ,0.8125,±  ,0.037
+ - STEM                                  ,    N/A,none  ,,acc   ,↑  ,0.5497,±  ,0.0351
+  - AST biology                          ,    0.1,none  ,     0,acc   ,↑  ,0.7714,±  ,0.072
+  - AST chemistry                        ,    0.1,none  ,     0,acc   ,↑  ,0.1724,±  ,0.0714
+  - CAP biology                          ,    0.1,none  ,     0,acc   ,↑  ,0.6818,±  ,0.1016
+  - CAP chemistry                        ,    0.1,none  ,     0,acc   ,↑  ,0.5455,±  ,0.1087
+  - CAP earth science                    ,    0.1,none  ,     0,acc   ,↑  ,0.7,±  ,0.1528
+  - GSAT biology                         ,    0.1,none  ,     0,acc   ,↑  ,0.625,±  ,0.125
+  - GSAT chemistry                       ,    0.1,none  ,     0,acc   ,↑  ,0.375,±  ,0.1009
+  - GSAT earth science                   ,    0.1,none  ,     0,acc   ,↑  ,0.5263,±  ,0.1177
+ - Taiwan Specific                       ,    N/A,none  ,,acc   ,↑  ,0.7666,±  ,0.0171
+  - driving rule                         ,    0.1,none  ,     0,acc   ,↑  ,0.8173,±  ,0.0187
+  - taiwan tourist resources             ,    0.1,none  ,     0,acc   ,↑  ,0.7111,±  ,0.0683
+  - teacher qualification                ,    0.1,none  ,     0,acc   ,↑  ,0.7714,±  ,0.0506

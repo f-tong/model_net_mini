@@ -1,0 +1,4 @@
+ Model Name , Training Time (GPU hours) , Training Power Consumption (W) , Training Location-Based Greenhouse Gas Emissions (tons CO2eq) , Training Market-Based Greenhouse Gas Emissions (tons CO2eq) 
+ Llama 4 Scout , 5.0M , 700 ," 1,354 ",0
+ Llama 4 Maverick , 2.38M , 700 , 645 ,0
+ Total , 7.38M , \- ," 1,999 ",0

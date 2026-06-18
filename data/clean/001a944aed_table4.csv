@@ -1,0 +1,7 @@
+                 Model , gsm8k (0-shot) , MATH (0-shot) , BBH (0-shot) 
+                 GPT-4 ,      91.4      ,     45.8      ,     86.7     
+          SUS-Chat-34B ,   80.06    ,     28.7      ,    67.62     
+         Qwen-72b-Chat ,  <u>76.57</u>  ,   35.9    ,  72.63   
+     Deepseek-68b-Chat ,     74.45      , <u>29.56</u>  , <u>69.73</u> 
+ OrionStar-Yi-34B-Chat ,     54.36      ,     12.8      ,    62.88     
+           Yi-34B-Chat ,     63.76      ,     10.02     ,    61.54     

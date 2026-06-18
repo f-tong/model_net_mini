@@ -1,0 +1,11 @@
+ Biomedical Benchmark , Med-PaLM-2 (5-shot) , GPT-4 , Palmyra-Med-70B (Original FP16) , Palmyra-Medical-70B-FP8 (This Model) 
+ MMLU Clincal Knowledge ,88.3,86.0,90.9,90.2
+ MMLU Medical Genetics ,90.0,91.0,94.0,93.0
+ MMLU Anatomy ,77.8,80.0,83.7,83.7
+ MMLU Professional Medicine ,95.2,93.0,92.7,92.3
+ MMLU College Biology ,94.4,95.1,94.4,93.8
+ MMLU College Medicine ,80.9,76.9,84.4,84.4
+ MedQA 4-options ,79.9,78.9,78.6,79.5
+ PubMed QA ,79.2,75.2,79.6,78.0
+ MedMCQA ,71.3,69.5,74.4,75.7
+ Average ,84.1,82.8,85.9,85.6

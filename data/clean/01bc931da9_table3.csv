@@ -1,0 +1,14 @@
+      , tohoku-nlp/tohokunlp-bert-500m-sq4096-alpha , tohoku-nlp/tohokunlp-bert-500m-sq8192-alpha 
+ Batch Size (tokens) ," 1,146,880 "," 2,293,760 "
+ Max Learning Rate , 1.0E-4 , 1.0E-4 
+ Min Learning Rate , 1.0E-6 , N/A 
+ Learning Rate Warmup Steps ," 10,000 ", N/A 
+ Scheduler , cosine , constant 
+ Optimizer , AdamW , AdamW 
+ Optimizer Config ," beta_1 = 0.9, beta_2 = 0.999, eps = 1.0E-8 "," beta_1 = 0.9, beta_2 = 0.999, eps = 1.0E-8 "
+ Weight Decay , 0.01 , 0.01 
+ Gradient Clipping , 1 , 1 
+ Sequence Length ," 4,096 "," 8,192 "
+ MLM Probability , 0.15 , 0.15 
+ Replace Masked-token Probability , 0.8 , 0.8 
+ Replace Random-token Probability , 0.1 , 0.1 

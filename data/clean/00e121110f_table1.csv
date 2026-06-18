@@ -1,0 +1,4 @@
+ Model , kobest_boolq , kobest_copa , kobest_hellaswag , kobest_sentineg , korunsmile , pawsx_ko 
+, Zero-shot ,,,,,
+ Yi-Ko-6B-Instruct-v1.0 , 0.6619 , 0.7794 , 0.4858 , 0.4589 , 0.3520 , 0.5545 
+ Yi-Ko-6B , 0.7070 , 0.7696 , 0.5009 , 0.4044 , 0.3828 , 0.5145 

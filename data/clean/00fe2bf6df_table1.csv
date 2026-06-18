@@ -1,0 +1,4 @@
+ Model                        , English , Spanish , Chinese , German , Arabic  , Urdu 
+ mBERT base cased (computed)  ,82.1,74.6,69.1,72.3,66.4,58.5
+ mBERT base uncased (reported),81.4,74.3,63.8,70.5,62.1,58.3
+ DistilmBERT                  ,78.2,69.1,64.0,66.3,59.1,54.7
