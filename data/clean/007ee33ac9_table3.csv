@@ -1,0 +1,6 @@
+ Hyperparameter , Value , Comment                            
+ Layers             ,32,
+ d_model          ,4544, Increased to compensate for multiquery                                       
+ head_dim         ,64, Reduced to optimise for FlashAttention 
+ Vocabulary         ,65024,
+ Sequence length    ,2048,

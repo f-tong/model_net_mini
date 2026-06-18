@@ -1,0 +1,10 @@
+ Hyperparameter         , Value                                         
+ Learning rate          , 2e-5                                          
+ Total train batch size , 32                                            
+ Max. sequence length   , 2048                                          
+ Weight decay           , 0.01                                          
+ Warmup ratio           , 0.1                                           
+ NEFTune Noise Alpha    , 5                                             
+ Optimizer              ," Adam with betas=(0.9,0.999) and epsilon=1e-08 "
+ Scheduler              , cosine                                        
+ Seed                   , 42                                            

@@ -1,0 +1,11 @@
+  ,  .1,  .2, Instruction Following256 / 128 , Instruction Following256 / 128 .1, Multi-turn Chat512 / 256 , Multi-turn Chat512 / 256 .1, Docstring Generation768 / 128 , Docstring Generation768 / 128 .1, RAG1024 / 128 , RAG1024 / 128 .1, Code Completion256 / 1024 , Code Completion256 / 1024 .1, Code Fixing1024 / 1024 , Code Fixing1024 / 1024 .1, Large Summarization4096 / 512 , Large Summarization4096 / 512 .1, Large RAG10240 / 1536 , Large RAG10240 / 1536 .1
+ Hardware , Model , Average cost reduction , Maximum throughput (QPS) , QPD , Maximum throughput (QPS) , QPD , Maximum throughput (QPS) , QPD , Maximum throughput (QPS) , QPD , Maximum throughput (QPS) , QPD , Maximum throughput (QPS) , QPD , Maximum throughput (QPS) , QPD , Maximum throughput (QPS) , QPD 
+ A6000x2 , deepseek-ai/DeepSeek-R1-Distill-Qwen-32B , --- , 6.2 , 13940 , 1.9 , 4348 , 2.7 , 6153 , 2.1 , 4778 , 0.6 , 1382 , 0.4 , 930 , 0.3 , 685 , 0.1 , 124 
+ A6000x2 , neuralmagic/DeepSeek-R1-Distill-Qwen-32B-quantized.w8a8 , 1.80 , 8.7 , 19492 , 4.2 , 9474 , 4.1 , 9290 , 3.0 , 6802 , 1.2 , 2734 , 0.9 , 1962 , 0.5 , 1177 , 0.1 , 254 
+ A6000x2 , neuralmagic/DeepSeek-R1-Distill-Qwen-32B-quantized.w4a16 , 1.30 , 5.9 , 13366 , 2.5 , 5733 , 2.4 , 5409 , 1.6 , 3525 , 1.2 , 2757 , 0.7 , 1663 , 0.3 , 676 , 0.1 , 214 
+ A100x2 , deepseek-ai/DeepSeek-R1-Distill-Qwen-32B , --- , 12.9 , 13016 , 5.8 , 5848 , 6.3 , 6348 , 5.1 , 5146 , 2.0 , 1988 , 1.5 , 1463 , 0.9 , 869 , 0.2 , 192 
+ A100x2 , neuralmagic/DeepSeek-R1-Distill-Qwen-32B-quantized.w8a8 , 1.52 , 21.4 , 21479 , 8.9 , 8948 , 10.6 , 10611 , 8.2 , 8197 , 3.0 , 3018 , 2.0 , 2054 , 1.2 , 1241 , 0.3 , 264 
+ A100x2 , neuralmagic/DeepSeek-R1-Distill-Qwen-32B-quantized.w4a16 , 1.09 , 13.5 , 13568 , 6.5 , 6509 , 6.0 , 6075 , 4.7 , 4754 , 2.8 , 2790 , 1.6 , 1651 , 0.9 , 862 , 0.2 , 225 
+ H100x2 , deepseek-ai/DeepSeek-R1-Distill-Qwen-32B , --- , 25.5 , 14392 , 12.5 , 7035 , 14.0 , 7877 , 11.3 , 6364 , 3.6 , 2041 , 2.7 , 1549 , 1.9 , 1057 , 0.4 , 200 
+ H100x2 , neuralmagic/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic , 1.46 , 46.7 , 25538 , 20.3 , 11082 , 23.3 , 12728 , 18.4 , 10049 , 5.3 , 2881 , 3.7 , 2097 , 2.6 , 1445 , 0.5 , 256 
+ H100x2 , neuralmagic/DeepSeek-R1-Distill-Qwen-32B-quantized.w4a16 , 1.23 , 36.9 , 20172 , 17.4 , 9500 , 18.0 , 9822 , 14.2 , 7755 , 5.3 , 2900 , 3.3 , 1867 , 2.3 , 1265 , 0.4 , 241 

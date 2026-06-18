@@ -1,0 +1,5 @@
+ Base Model      , Max. L.R. , # of Epochs , # of Grad. Acc. Steps , # of A100 GPUs 
+ Mistral-7B      ,1e-05,3,1,8
+ Llama3-8B       ,5e-05,1,2,8
+ Llama3-70B      ,2e-05,1,1,32
+ DeepSeekMath-7B ,5e-05,3,1,8

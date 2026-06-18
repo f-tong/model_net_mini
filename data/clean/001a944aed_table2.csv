@@ -1,0 +1,7 @@
+ Model , mmlu (0-shot) 
+ GPT-4 ,83.0
+ SUS-Chat-34B ,74.35
+ Qwen-72b-Chat ,74.52
+ Deepseek-68b-Chat ,69.43
+ OrionStar-Yi-34B-Chat ,68.51
+ Yi-34B-Chat ,66.96

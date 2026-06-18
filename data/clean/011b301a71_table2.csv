@@ -1,0 +1,7 @@
+ Dataset   , SatDINO<sub>8</sub> , SatDINO<sub>16</sub> , Scale-MAE , SatMAE 
+ EuroSAT   ,87.72,85.96,85.42,81.43
+ RESISC45  ,85.29,82.32,79.96,65.96
+ UC Merced ,94.82,93.21,84.58,78.45
+ WHU-RS19  ,98.18,97.82,89.32,86.41
+ RS-C11    ,96.91,96.61,93.03,83.96
+ SIRI-WHU  ,91.82,87.19,84.84,77.76

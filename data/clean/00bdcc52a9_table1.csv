@@ -1,0 +1,6 @@
+ Quantization , Standard PPL , DynamicGate PPL , Δ PPL   , Std Size , DG Size , Δ Size , Std Speed , DG Speed 
+ IQ2_XXS      ,11.3,9.84, -12.9%  , 2.5G     , 2.6G    , +0.1G  , 234s      , 246s     
+ IQ2_XS       ,11.72,11.63, -0.8%   , 2.7G     , 2.8G    , +0.1G  , 242s      , 246s     
+ IQ2_S        ,14.31,9.02, -36.9%  , 2.7G     , 2.9G    , +0.2G  , 238s      , 244s     
+ IQ1_M        ,27.46,15.41, -43.9%  , 2.2G     , 2.5G    , +0.3G  , 206s      , 212s     
+ IQ1_S        ,53.07,32.0, -39.7%  , 2.1G     , 2.4G    , +0.3G  , 184s      , 209s     

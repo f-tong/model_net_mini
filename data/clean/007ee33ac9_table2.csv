@@ -1,0 +1,7 @@
+ Hyperparameter , Value  , Comment                               
+ Precision          , bfloat16 ,
+ Optimizer          , AdamW      ,
+ Learning rate      , 6e-4       ," 4B tokens warm-up, cosine decay to 1.2e-5 "
+ Weight decay       , 1e-1       ,
+ Z-loss       , 1e-4       ,
+ Batch size         , 2304        , 30B tokens ramp-up                         

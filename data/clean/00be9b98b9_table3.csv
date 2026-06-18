@@ -1,0 +1,9 @@
+ Pre-trained models ,  ,  .1,  .2,  .3,  .4,  .5,  .6
+ Category , Benchmark , \# Shots , Metric , Llama 3.1 70B , Llama 3.1 405B , Llama 4 Scout , Llama 4 Maverick 
+ Reasoning & Knowledge , MMLU , 5 , macro\_avg/acc\_char	 , 79.3 , 85.2 , 79.6 , 85.5 
+, MMLU-Pro , 5 , macro\_avg/em , 53.8 , 61.6 , 58.2 , 62.9 
+, MATH , 4 , em\_maj1@1 , 41.6 , 53.5 , 50.3 , 61.2 
+ Code , MBPP , 3 , pass@1 , 66.4 , 74.4 , 67.8 , 77.6 
+ Multilingual , TydiQA , 1 , average/f1 , 29.9 , 34.3 , 31.5 , 31.7 
+ Image , ChartQA , 0 , relaxed\_accuracy , No multimodal support ,, 83.4 , 85.3 
+, DocVQA , 0 , anls ,,, 89.4 , 91.6 

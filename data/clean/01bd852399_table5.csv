@@ -1,0 +1,23 @@
+                        , [t5-base-36L-ccmatrix-multi](https://huggingface.co/yhavinga/t5-base-36L-ccmatrix-multi)   , [t5-base-36L-ccmatrix-multi](https://huggingface.co/yhavinga/t5-base-36L-ccmatrix-multi)   .1, [t5-small-24L-ccmatrix-multi](https://huggingface.co/yhavinga/t5-small-24L-ccmatrix-multi)   , [t5-small-24L-ccmatrix-multi](https://huggingface.co/yhavinga/t5-small-24L-ccmatrix-multi)   .1
+ source_lang , en                           , nl                           , en                            , nl                            
+ target_lang , nl                           , en                           , nl                            , en                            
+ source_prefix , translate English to Dutch:  , translate Dutch to English:  , translate English to Dutch:   , translate Dutch to English:   
+ ccmatrix_bleu , 56.8                         , 62.8                         , 57.4                          , 63.1                          
+ tatoeba_bleu , 46.6                         , 52.8                         , 46.4                          , 51.7                          
+ opus_books_bleu , 13.5                         , 24.9                         , 12.9                          , 23.4                          
+ ccmatrix_bp , 0.95                         , 0.96                         , 0.95                          , 0.96                          
+ tatoeba_bp , 0.97                         , 0.94                         , 0.98                          , 0.94                          
+ opus_books_bp , 0.8                          , 0.94                         , 0.77                          , 0.89                          
+ avg_bleu , 38.96                        , 46.86                        , 38.92                         , 46.06                         
+ max_source_length , 128                          , 128                          , 128                           , 128                           
+ max_target_length , 128                          , 128                          , 128                           , 128                           
+ adam_beta1 , 0.9                          , 0.9                          , 0.9                           , 0.9                           
+ adam_beta2 , 0.997                        , 0.997                        , 0.997                         , 0.997                         
+ weight_decay , 0.05                         , 0.05                         , 0.002                         , 0.002                         
+ lr , 5e-05                        , 5e-05                        , 0.0005                        , 0.0005                        
+ label_smoothing_factor , 0.15                         , 0.15                         , 0.1                           , 0.1                           
+ train_batch_size , 128                          , 128                          , 128                           , 128                           
+ warmup_steps , 2000                         , 2000                         , 2000                          , 2000                          
+ total steps , 390625                       , 390625                       , 390625                        , 390625                        
+ duration , 4d 5h                        , 4d 5h                        , 3d 2h                         , 3d 2h                         
+ num parameters , 729M                         , 729M                         , 250M                          , 250M                          

@@ -1,0 +1,23 @@
+ Metric               , Value      
+ cosine_accuracy@1    ,0.5286
+ cosine_accuracy@2    ,0.7286
+ cosine_accuracy@5    ,0.9571
+ cosine_accuracy@10   ,0.9857
+ cosine_accuracy@100  ,1.0
+ cosine_precision@1   ,0.5286
+ cosine_precision@2   ,0.3643
+ cosine_precision@5   ,0.1914
+ cosine_precision@10  ,0.0986
+ cosine_precision@100 ,0.01
+ cosine_recall@1      ,0.5286
+ cosine_recall@2      ,0.7286
+ cosine_recall@5      ,0.9571
+ cosine_recall@10     ,0.9857
+ cosine_recall@100    ,1.0
+ cosine_ndcg@10   ,0.7704
+ cosine_mrr@1         ,0.5286
+ cosine_mrr@2         ,0.6286
+ cosine_mrr@5         ,0.6952
+ cosine_mrr@10        ,0.6992
+ cosine_mrr@100       ,0.7001
+ cosine_map@100       ,0.7001

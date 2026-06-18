@@ -1,0 +1,8 @@
+ Model                                   , Score , 95% CI      , Avg Tokens , Std Tokens , LC Score 
+ kolibri-vikhr-mistral-0427                  ,22.41, +1.6 / -1.6     ,489.89,566.29,46.04
+ storm-7b                                    ,20.62, +2.0 / -1.6     ,419.32,190.85,45.78
+ neural-chat-7b-v3-3                         ,19.04, +2.0 / -1.7     ,927.21,1211.62,45.56
+ Vikhrmodels-Vikhr-Llama-3.2-1B-instruct ,19.04, +1.3 / -1.6 ,958.63,1297.33,45.56
+ gigachat_lite                               ,17.2, +1.4 / -1.4     ,276.81,329.66,45.29
+ Vikhrmodels-vikhr-qwen-1.5b-it              ,13.19, +1.4 / -1.6     ,2495.38,741.45,44.72
+ meta-llama-Llama-3.2-1B-Instruct            ,4.04, +0.8 / -0.6     ,1240.53,1783.08,43.42

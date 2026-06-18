@@ -1,0 +1,9 @@
+ Attribute , Value 
+ Adapted from , [Llama-2-13b-hf](https://huggingface.co/meta-llama/Llama-2-13b-hf) 
+ License , [LLama 2 Community License Agreement](https://huggingface.co/meta-llama/Llama-2-70b/raw/main/LICENSE.txt) 
+ Batch size , 1344 
+ Context length , 4096 
+ Learning rate , 2e-5 
+ Learning rate decay , cosine 
+ Warmup steps , 0 
+ Training time , 35 days 

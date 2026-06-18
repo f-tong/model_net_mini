@@ -1,0 +1,11 @@
+ Metric              , Value      
+ pearson_cosine      ,0.7068
+ spearman_cosine ,0.7044
+ pearson_manhattan   ,0.7137
+ spearman_manhattan  ,0.7032
+ pearson_euclidean   ,0.7147
+ spearman_euclidean  ,0.7039
+ pearson_dot         ,0.3746
+ spearman_dot        ,0.3444
+ pearson_max         ,0.7147
+ spearman_max        ,0.7044

@@ -1,0 +1,20 @@
+ Model , Perplexity 
+ English models , English models 
+ meta-llama/Llama-2-7b-hf , 24.3 
+ meta-llama/Llama-2-13b-hf , 21.4 
+ mistralai/Mistral-7B-v0.1 , 21.4 
+ TinyLlama/TinyLlama-1.1B , 40.4 
+ Polish models , Polish models 
+ sdadas/polish-gpt2-small , 134.4 
+ sdadas/polish-gpt2-medium , 100.8 
+ sdadas/polish-gpt2-large , 93.2 
+ sdadas/polish-gpt2-xl , 94.1 
+ Azurro/APT3-275M-Base , 129.8 
+ Azurro/APT3-500M-Base , 153.1 
+ Azurro/APT3-1B-Base , 106.8 
+ eryk-mazus/polka-1.1b , 18.1 
+ szymonrucinski/Curie-7B-v1 , 13.5 
+ Qra models , Qra models 
+ OPI-PG/Qra-1b , 14.7 
+ OPI-PG/Qra-7b , 11.3 
+ OPI-PG/Qra-13b , 10.5 

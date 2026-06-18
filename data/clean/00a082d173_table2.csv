@@ -1,0 +1,6 @@
+ Model , H6 [4] , GSM8k , sec_tables_v1 
+ v-alpha-tross , 73.28 , 61.79 ,100.0
+ meta-llama/Llama-2-70B-hf , 67.87 , 54.06 ,75.76
+ meta-llama/Llama-2-70b-chat-hf , 62.40 , 26.69 ,87.88
+ mistralai/Mixtral-8x7B-Instruct-v0.1 , 72.70 , 61.11 ,82.35
+ GPT-3.5 , N/A , 57.1 [5] ,100.0

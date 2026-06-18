@@ -98,8 +98,3 @@
 0b09660dccc36db0a5a2cd8b116f84d4_table_9.csv
 0b09660dccc36db0a5a2cd8b116f84d4_table_10.csv
 0b80701e271565a2621b5f0196260ba8_table_0.csv
-
-
-TRANSPOSED
-C:\Users\tongf\model_net\model_net\DATA\github_tables\github_csvs\0a56eee4feaa72bf9de689c28cdc1e3b_table_1.csv
-C:\Users\tongf\model_net\model_net\DATA\github_tables\github_csvs\0b12e9455ac54973fc1b2b870ec5e808_table_5.csv
