@@ -1,0 +1,5 @@
+ set , sentences , ~tokens 
+ train ,5496, 92K 
+ dev ,672, 13K 
+ test ,892, 17K 
+ TOTAL ,7060, 122K 

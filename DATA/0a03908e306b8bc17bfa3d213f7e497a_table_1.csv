@@ -1,0 +1,2 @@
+ testset , BLEU  , chr-F , #sent , #words , BP 
+ Tatoeba-test.eng-fra 	,50.7,0.67,10000,80769,0.98

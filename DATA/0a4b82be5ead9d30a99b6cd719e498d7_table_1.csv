@@ -1,0 +1,5 @@
+ Model , Params , LLM , HuggingFace 
+ EagleVision-1B , 0.64B , Qwen2-0.5B-Instruct , Link 
+ EagleVision-2B , 1.92B , internlm2-chat-1-8b , Link 
+ EagleVision-4B , 3.86B , Phi-3-mini-128k-instruct , Link 
+ EagleVision-7B , 7.77B , internlm2_5-7b-chat , Link 

@@ -1,0 +1,2 @@
+ Model , Hardware , num of examples (seq len = 512) , Batch Size , Num of Steps , Time (in days) 
+ ELECTRA-base , TPUv3-8 , - ,256, 2M ,24

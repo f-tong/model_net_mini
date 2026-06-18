@@ -1,0 +1,7 @@
+ Model , Sparsity , GSM8K , AQuA , MAWPS , SVAMP , Average 
+ LLaMA-7B-LoRA , - ,37.5,18.9,79.0,52.1,46.9
+ LLaMA-7B-Shears , 40% ,36.8,19.7,83.2,47.7,46.9
+ LLaMA-7B-Shears , 50% ,36.1,22.0,78.6,44.5,45.3
+ LLaMA-13B-LoRA , - ,47.5,18.5,83.6,54.6,51.1
+ LLaMA-13B-Shears , 40% ,48.3,21.3,83.2,55.2,52.0
+ LLaMA-13B-Shears , 50% ,45.1,22.0,83.2,53.3,50.9

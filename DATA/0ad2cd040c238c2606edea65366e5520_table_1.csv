@@ -1,0 +1,6 @@
+ Name , Split , Language , # Questions , Comment , Download Link (VLMEvalKit) , Download Link (Legacy) 
+ MMBench-Dev , Dev , EN ,1164, The Dev Split of MMBench , Download , Download 
+ MMBench-Test , Test , EN ,1784, The Test Split of MMBench , Download , Download 
+ MMBench-Dev (cn) , Dev , CN ,1164, Chinese Version of MMBench-Dev , Download , Download 
+ MMBench-Test (cn) , Test , CN ,1784, Chinese Version of MMBench-Test , Download , Download 
+ CCBench , Dev , CN ,510, A Benchmark on Chinese Culture Related Stuff , Download , Download 

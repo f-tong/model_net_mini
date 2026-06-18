@@ -1,0 +1,5 @@
+ Mode , 2b Min Memory (GB) , 9b Min Memory (GB) , 27b Min Memory (GB) , Weights dtype , CPU Offload 
+ exact , 5.3 ,18.3,54.6, bf16 , no 
+ speed (CUDA-only) , 5.4 ,19.0,55.8, bf16 , no 
+ memory , 3.7 ,7.3,17.0, int4 , no 
+ memory_extreme ," 1,8 ",3.7,4.7, int4 , yes 

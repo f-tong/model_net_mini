@@ -1,0 +1,7 @@
+ Model , strategy , Layers , Model dim. , iterations , val ppl , config 
+ TokenFormer-354M , scratch ,24,1024, 600k ,11.9, config 
+ TransFormer-757M , scratch ,24,1536, 60k ,12.0, - 
+ TransFormer-757M , scratch ,24,1536, 120k ,11.3, - 
+ TransFormer-757M , scratch ,24,1536, 600k ,10.5, - 
+ TokenFormer-757M , incremental ,24,1024, 60k ,10.9, config 
+ TokenFormer-757M , incremental ,24,1024, 120k ,10.7, config 

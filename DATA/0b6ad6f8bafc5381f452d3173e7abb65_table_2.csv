@@ -1,0 +1,8 @@
+  , WER PyThaiNLP 2.3.1 , WER deepcut , CER 
+ Kaldi from scratch ,23.04,,7.57
+ Ours without spell correction ,13.634024, 8.152052 ,2.813019
+ Ours with spell correction ,17.996397, 14.167975 ,5.225761
+ Google Web Speech API※ ,13.711234, 10.860058 ,7.35734
+ Microsoft Bing Speech API※ ,12.578819, 9.620991 ,5.01662
+ Amazon Transcribe※ ,21.86334, 14.487553 ,7.077562
+ NECTEC AI for Thai Partii API※ ,20.105887, 15.515631 ,9.551027

@@ -1,0 +1,6 @@
+ Method , Precision , Wiki$\downarrow$ , C4$\downarrow$ , ArcE$\uparrow$ , PiQA$\uparrow$ 
+ Native , 16 bit ,3.12,5.533,0.597,0.809
+ OPTQ , 3 bit ,4.577,6.838,0.544,0.786
+ OPTQ , 2 bit ,109.82,62.692,0.253,0.505
+ QuIP , 2 bit ,5.574,8.268,0.544,0.751
+ QuIP# , 2 bit ,4.156,6.545,0.595,0.785

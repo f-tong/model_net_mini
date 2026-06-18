@@ -1,0 +1,12 @@
+ Model , LLM , Res. , Link , TextVQA , MMB , MME , MM-Vet , MMMU_val , MMMU_test , MathVista 
+ MGM-2B , Gemma-2B ,336, ckpt ,56.2, 59.8 , 1341/312 , 31.1 ,31.7, 29.1 , 29.4 
+ MGM-7B , Vicuna-7B-v1.5 ,336, ckpt ,65.2, 69.3 , 1523/316 , 40.8 ,36.1, 32.8 , 31.4 
+ MGM-13B , Vicuna-13B-v1.5 ,336, ckpt ,65.9, 68.5 , 1565/322 , 46.0 ,38.1, 33.5 , 37.0 
+ MGM-8B , LLaMA-3-8B-Instruct ,336, ckpt ,67.6, 72.7 , 1606/341 , 47.3 ,38.2, 36.3 , -- 
+ MGM-8x7B , Mixtral-8x7B-Instruct-v0.1 ,336, ckpt ,69.2, 75.6 , 1639/379 , 45.8 ,41.8, 37.1 , 41.8 
+ MGM-34B , Nous-Hermes-2-Yi-34B ,336, ckpt ,70.1, 79.6 , 1666/439 , 53.0 ,48.7, 43.6 , 38.9 
+ MGM-7B-HD , Vicuna-7B-v1.5 ,672, ckpt ,68.4, 65.8 , 1546/319 , 41.3 ,36.8, 32.9 , 32.2 
+ MGM-13B-HD , Vicuna-13B-v1.5 ,672, ckpt ,70.2, 68.6 , 1597/320 , 50.5 ,37.3, 35.1 , 37.0 
+ MGM-8B-HD , LLaMA-3-8B-Instruct ,672, ckpt ,71.6, -- , 1532/357 , -- ,37.0, -- , -- 
+ MGM-8x7B-HD , Mixtral-8x7B-Instruct-v0.1 ,672, ckpt ,71.9, 74.7 , 1633/356 , 53.5 ,40.0, 37.0 , 43.1 
+ MGM-34B-HD , Nous-Hermes-2-Yi-34B ,672, ckpt ,74.1, 80.6 , 1659/482 , 59.3 ,48.0, 44.9 , 43.3 

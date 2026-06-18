@@ -1,0 +1,6 @@
+ Model , Dataset , Dataset .1, Dataset .2, Dataset .3, Dataset .4
+ Model , NCBI , BC5CDR , COMETA , AAP , MM-ST21pv 
+" BioSYN(Sung et al., 2020) ", 91.1 , - , 71.3 , 82.6 , - 
+" SapBERT(Liu et al., 2021) ", 92.3 , - , 75.1 , 89.0 , - 
+" GenBioEL(Yuan et al., 2022b) ", 91.0 , 93.1 , 80.9 , 89.3 , 70.7 
+ ANGEL (Ours) , 92.8 , 94.5 , 82.8 , 90.2 , 73.3 

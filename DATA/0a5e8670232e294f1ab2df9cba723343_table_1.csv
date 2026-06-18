@@ -1,0 +1,8 @@
+ Speech Pretraining , ASR Pretraining , Test EM Accuracy , Tesst EM-Tree Accuracy , Link 
+ None , None ,36.54,57.01, link 
+ Wav2Vec , None ,68.05,82.53, link 
+ HuBERT , None ,68.4,82.85, link 
+ Wav2Vec , STOP ,68.7,82.78, link 
+ HuBERT , STOP ,69.23,82.87, link 
+ Wav2Vec , Librispeech ,68.47,82.49, link 
+ HuBERT , Librispeech ,68.7,82.78, link 

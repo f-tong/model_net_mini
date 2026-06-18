@@ -1,0 +1,25 @@
+ Language , Model Name 
+ Company Alias linkage ,
+ Spanish , dell-research-harvard/lt-wikidata-comp-es 
+ French , dell-research-harvard/lt-wikidata-comp-fr 
+ Japanese , dell-research-harvard/lt-wikidata-comp-ja 
+ Chinese , dell-research-harvard/lt-wikidata-comp-zh 
+ German , dell-research-harvard/lt-wikidata-comp-de 
+ English , dell-research-harvard/lt-wikidata-comp-en 
+ Multilingual , dell-research-harvard/lt-wikidata-comp-multi 
+ Japanese , dell-research-harvard/lt-wikidata-comp-prod-ind-ja 
+ Product Linkage ,
+ English , dell-research-harvard/lt-un-data-fine-fine-en 
+ Spanish , dell-research-harvard/lt-un-data-fine-fine-es 
+ French , dell-research-harvard/lt-un-data-fine-fine-fr 
+ Multilingual , dell-research-harvard/lt-un-data-fine-fine-multi 
+ Product to Industry Linkage ,
+ English , dell-research-harvard/lt-un-data-fine-industry-en 
+ Spanish , dell-research-harvard/lt-un-data-fine-industry-es 
+ French , dell-research-harvard/lt-un-data-fine-industry-fr 
+ Multilingual , dell-research-harvard/lt-un-data-fine-industry-multi 
+ Product Aggregation ,
+ English , dell-research-harvard/lt-un-data-fine-coarse-en 
+ Spanish , dell-research-harvard/lt-un-data-fine-coarse-es 
+ French , dell-research-harvard/lt-un-data-fine-coarse-fr 
+ Multilingual , dell-research-harvard/lt-un-data-fine-coarse-multi 

@@ -1,0 +1,6 @@
+ Model , #paras , CMV–Vi , VIVOS , VLSP 2020 Task-1 , VLSP 2020 Task-2 
+ vinai/PhoWhisper-tiny , 39M ,19.05,10.41,20.74,49.85
+ vinai/PhoWhisper-base , 74M ,16.19,8.46,19.7,43.01
+ vinai/PhoWhisper-small , 244M ,11.08,6.33,15.93,32.96
+ vinai/PhoWhisper-medium , 769M ,8.27,4.97,14.12,26.85
+ vinai/PhoWhisper-large , 1.55B ,8.14,4.67,13.75,26.68

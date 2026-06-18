@@ -1,0 +1,6 @@
+ Model , Hardware , num of examples with seq len (128 / 512) , 128 (Batch Size/ Num of Steps) , 512 (Batch Size/ Num of Steps) , Total Steps , Total Time (in Days) 
+ AraBERTv0.2-base , TPUv3-8 , 420M / 207M , 2560 / 1M , 384/ 2M , 3M ,36
+ AraBERTv0.2-large , TPUv3-128 , 420M / 207M , 13440 / 250K , 2056 / 300K , 550K ,7
+ AraBERTv2-base , TPUv3-8 , 420M / 207M , 2560 / 1M , 384/ 2M , 3M ,36
+ AraBERTv2-large , TPUv3-128 , 520M / 245M , 13440 / 250K , 2056 / 300K , 550K ,7
+ AraBERT-base (v1/v0.1) , TPUv2-8 , - , 512 / 900K , 128 / 300K , 1.2M ,4

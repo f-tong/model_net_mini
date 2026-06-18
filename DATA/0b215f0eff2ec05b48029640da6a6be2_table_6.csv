@@ -1,0 +1,6 @@
+ Model , Accuracy [%] 
+ Frog ,57.31
+ mBERT ,90.94
+ BERT-NL ,89.7
+ BERTje ,88.3
+ RobBERT v2 ,89.08

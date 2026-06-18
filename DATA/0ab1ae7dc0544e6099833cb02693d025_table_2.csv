@@ -1,0 +1,29 @@
+ Lattice Codebook , Base Model , Weight Bits , HF repo_id 
+ E8P (recommended) , Llama 2 70b ,2, relaxml/Llama-2-70b-E8P-2Bit 
+, Llama 2 70b chat ,2, relaxml/Llama-2-70b-chat-E8P-2Bit 
+, Llama 2 13b ,2, relaxml/Llama-2-13b-E8P-2Bit 
+, Llama 2 13b chat ,2, relaxml/Llama-2-13b-chat-E8P-2Bit 
+, Llama 2 7b ,2, relaxml/Llama-2-7b-E8P-2Bit 
+, Llama 2 7b chat ,2, relaxml/Llama-2-7b-chat-E8P-2Bit 
+, Llama 1 65b ,2, relaxml/Llama-1-65b-E8P-2Bit 
+, Llama 1 30b ,2, relaxml/Llama-1-30b-E8P-2Bit 
+, Llama 1 13b ,2, relaxml/Llama-1-13b-E8P-2Bit 
+, Llama 1 7b ,2, relaxml/Llama-1-7b-E8P-2Bit 
+, Mistral 7b ,2, relaxml/Mistral-7b-E8P-2Bit 
+, OpenHermes 2.5 ,2, relaxml/Openhermes-7b-E8P-2Bit 
+ D4 , Llama 2 70b ,2, relaxml/Llama-2-70b-D4-2Bit 
+, Llama 2 13b ,2, relaxml/Llama-2-13b-D4-2Bit 
+, Llama 2 7b ,2, relaxml/Llama-2-7b-D4-2Bit 
+, Llama 1 65b ,2, relaxml/Llama-1-65b-D4-2Bit 
+, Llama 1 30b ,2, relaxml/Llama-1-30b-D4-2Bit 
+, Llama 1 13b ,2, relaxml/Llama-1-13b-D4-2Bit 
+, Llama 1 7b ,2, relaxml/Llama-1-7b-D4-2Bit 
+ HI , Llama 2 70b ,4, relaxml/Llama-2-70b-HI-4Bit-Packed 
+, Llama 2 13b ,4, relaxml/Llama-2-13b-HI-4Bit-Packed 
+, Llama 2 7b ,4, relaxml/Llama-2-7b-HI-4Bit-Packed 
+, Llama 1 65b ,4, relaxml/Llama-1-65b-HI-4Bit-Packed 
+, Llama 1 30b ,4, relaxml/Llama-1-30b-HI-4Bit-Packed 
+, Llama 1 13b ,4, relaxml/Llama-1-13b-HI-4Bit-Packed 
+, Llama 1 7b ,4, relaxml/Llama-1-7b-HI-4Bit-Packed 
+, Mistral 7b ,4, relaxml/Mistral-7b-HI-4Bit-Packed 
+, OpenHermes 2.5 ,4, relaxml/Openhermes-7b-HI-4Bit-Packed 

@@ -1,0 +1,4 @@
+ Model , Accuracy [%] , F1 [%] 
+ mBERT ,92.157,90.898
+ BERTje ,93.096,91.279
+ RobBERT v2 ,97.816,97.514

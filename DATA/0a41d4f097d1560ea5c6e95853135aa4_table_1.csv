@@ -1,0 +1,6 @@
+ Model name , HuggingFace , Corpus , Token/s , Domain , Open-Source 
+ WavTokenizer-small-600-24k-4096 , 🤗 , LibriTTS ,40, Speech , √ 
+ WavTokenizer-small-320-24k-4096 , 🤗 , LibriTTS ,75, Speech , √ 
+ WavTokenizer-medium-320-24k-4096 , 🤗 , 10000 Hours ,75," Speech, Audio, Music ", √ 
+ WavTokenizer-large-600-24k-4096 , 🤗 , 80000 Hours ,40," Speech, Audio, Music ", √ 
+ WavTokenizer-large-320-24k-4096 , 🤗 , 80000 Hours ,75," Speech, Audio, Music ", √ 

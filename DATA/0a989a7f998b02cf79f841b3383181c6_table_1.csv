@@ -1,0 +1,7 @@
+ Component , Parameters 
+ Embedder (initial conv + norm) , ~9.5K 
+ Encoder Stage 0 , ~74K 
+ Encoder Stage 1 , ~230K 
+ Encoder Stage 2 , ~918K 
+ Encoder Stage 3 , ~3.67M 
+ Total , 4.91M 

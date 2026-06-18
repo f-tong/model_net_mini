@@ -1,0 +1,3 @@
+    Task     ,Version,Metric,Value,   ,Stderr
+truthfulqa_mc,      1,mc1   ,36.84,±  ,1.69
+,,mc2   ,54.32,±  ,1.54

@@ -1,0 +1,3 @@
+ Model , HuggingFace Model Name , Size (MB/Params) 
+ AraELECTRA-base-generator , araelectra-base-generator , 227MB/60M 
+ AraELECTRA-base-discriminator , araelectra-base-discriminator , 516MB/135M 

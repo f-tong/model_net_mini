@@ -1,0 +1,5 @@
+ Name , Super-network , Sparsity , Train Data 
+ shears-llama-7b-50-math-heuristic-adapter , shears-llama-7b-50-math-super-adapter , 50% , Unified Math 
+ shears-llama-7b-50-cs-heuristic-adapter , shears-llama-7b-50-cs-super-adapter , 50% , Unified Commonsense 
+ shears-llama-13b-50-math-heuristic-adapter , shears-llama-13b-50-math-super-adapter , 50% , Unified Math 
+ shears-mpt-7b-50-gsm8k-heuristic-adapter , shears-mpt-7b-50-gsm8k-super-adapter , 50% , GSM8K 

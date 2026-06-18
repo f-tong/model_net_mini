@@ -1,0 +1,9 @@
+ Model , Spearman dev-set , Spearman test-set , Pearson dev-set , Pearson test-set 
+ BERT-base-ro ,84.26,80.86,84.59,81.59
+ RoDiBERT ,77.07,71.47,77.13,72.25
+ RoBERT-small ,82.06,78.06,81.66,78.49
+ RoBERT-base ,84.93,80.39,85.03,80.39
+ RoBERT-large ,86.25,83.15,86.58,83.76
+ RoGPT2-base ,83.51,79.77,83.74,80.56
+ RoGPT2-medium ,85.75,82.25,86.04,83.16
+ RoGPT2-large ,85.7,82.64,86.14,83.46

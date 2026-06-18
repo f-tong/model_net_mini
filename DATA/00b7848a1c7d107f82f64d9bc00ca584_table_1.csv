@@ -1,0 +1,8 @@
+ Model , LlamaChatHandler , chat_format 
+ llava-v1.5-7b , Llava15ChatHandler , llava-1-5 
+ llava-v1.5-13b , Llava15ChatHandler , llava-1-5 
+ llava-v1.6-34b , Llava16ChatHandler , llava-1-6 
+ moondream2 , MoondreamChatHandler , moondream2 
+ nanollava , NanollavaChatHandler , nanollava 
+ llama-3-vision-alpha , Llama3VisionAlphaChatHandler , llama-3-vision-alpha 
+ minicpm-v-2.6 , MiniCPMv26ChatHandler , minicpm-v-2.6 

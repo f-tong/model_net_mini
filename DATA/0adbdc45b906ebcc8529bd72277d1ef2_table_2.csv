@@ -1,0 +1,36 @@
+ Model , Model size , Author , Reference 
+ CodeGemma , 7B , Google ," Google Team, Google Deepmind "
+ Code Llama ," 7B, 13B, 34B, 70B ", Meta AI , Rozière et al. 2023 
+ Falcon ," 7B, 40B, 180B ", TII UAE , TII 2023 
+ Falcon 3 ," 1B, 3B, 7B, 10B ", TII UAE , TII 2024 
+ FreeWilly2 (Stable Beluga 2) , 70B , Stability AI , Stability AI 2023 
+ Function Calling Llama 2 , 7B , Trelis , Trelis et al. 2023 
+ Gemma ," 2B, 7B ", Google ," Google Team, Google Deepmind "
+ Gemma 2 ," 9B, 27B ", Google ," Google Team, Google Deepmind "
+ Llama 2 ," 7B, 13B, 70B ", Meta AI , Touvron et al. 2023 
+ Llama 3.1 ," 8B, 70B ", Meta AI , Meta AI 2024 
+ Llama 3.2 ," 1B, 3B ", Meta AI , Meta AI 2024 
+ Llama 3.3 , 70B , Meta AI , Meta AI 2024 
+ Mathstral , 7B , Mistral AI , Mistral AI 2024 
+ MicroLlama , 300M , Ken Wang , MicroLlama repo 
+ Mixtral MoE , 8x7B , Mistral AI , Mistral AI 2023 
+ Mistral ," 7B, 123B ", Mistral AI , Mistral AI 2023 
+ Mixtral MoE , 8x22B , Mistral AI , Mistral AI 2024 
+ OLMo ," 1B, 7B ", Allen Institute for AI (AI2) , Groeneveld et al. 2024 
+ OpenLLaMA ," 3B, 7B, 13B ", OpenLM Research , Geng & Liu 2023 
+ Phi 1.5 & 2 ," 1.3B, 2.7B ", Microsoft Research , Li et al. 2023 
+ Phi 3 , 3.8B , Microsoft Research , Abdin et al. 2024 
+ Phi 4 , 14B , Microsoft Research , Abdin et al. 2024 
+ Platypus ," 7B, 13B, 70B ", Lee et al. ," Lee, Hunter, and Ruiz 2023 "
+ Pythia ," {14,31,70,160,410}M, {1,1.4,2.8,6.9,12}B ", EleutherAI , Biderman et al. 2023 
+ Qwen2.5 ," 0.5B, 1.5B, 3B, 7B, 14B, 32B, 72B ", Alibaba Group , Qwen Team 2024 
+ Qwen2.5 Coder ," 0.5B, 1.5B, 3B, 7B, 14B, 32B ", Alibaba Group ," Hui, Binyuan et al. 2024 "
+ Qwen2.5 Math ," 1.5B, 7B, 72B ", Alibaba Group ," An, Yang et al. 2024 "
+ QwQ , 32B , Alibaba Group , Qwen Team 2024 
+ R1 Distill Llama ," 8B, 70B ", DeepSeek AI , DeepSeek AI 2025 
+ SmolLM2 ," 135M, 360M, 1.7B ", Hugging Face , Hugging Face 2024 
+ Salamandra ," 2B, 7B ", Barcelona Supercomputing Centre , BSC-LTC 2024 
+ StableCode , 3B , Stability AI , Stability AI 2023 
+ StableLM ," 3B, 7B ", Stability AI , Stability AI 2023 
+ StableLM Zephyr , 3B , Stability AI , Stability AI 2023 
+ TinyLlama , 1.1B , Zhang et al. , Zhang et al. 2023 

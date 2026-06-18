@@ -1,0 +1,5 @@
+ Model , Accuracy [%] , F1 [%] 
+ Baseline(LSTM) ,,75.03
+ mBERT , 98.285 ,98.033
+ BERTje , 98.268 ,98.014
+ RobBERT v2 , 99.232 ,99.121

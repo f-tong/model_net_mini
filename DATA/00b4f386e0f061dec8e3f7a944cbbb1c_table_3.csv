@@ -1,0 +1,6 @@
+ Model , HuggingFace Model Name , Size / Params 
+ AraGPT2-base , aragpt2-base , 527MB/135M 
+ AraGPT2-medium , aragpt2-medium , 1.38G/370M 
+ AraGPT2-large , aragpt2-large , 2.98GB/792M 
+ AraGPT2-mega , aragpt2-mega , 5.5GB/1.46B 
+ AraGPT2-mega-detector-long , aragpt2-mega-detector-long , 516MB/135M 

@@ -1,0 +1,2 @@
+ Model , Full Finetuning , PEFT-LoRA , PEFT-LoRA with Gradient Checkpointing 
+ CompVis/stable-diffusion-v1-4 , 27.5GB GPU / 3.97GB CPU , 15.5GB GPU / 3.84GB CPU , 8.12GB GPU / 3.77GB CPU 

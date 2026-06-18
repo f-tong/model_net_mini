@@ -1,0 +1,8 @@
+ Benchmark , Metric , Krutrim-1-7B , MN-12B-Instruct , Krutrim-2-12B , llama-3.1-8B-Instruct , llama-3.1-70B-Instruct , Gemma-2-9B-Instruct , Gemma-2-27B-Instruct , GPT-4o 
+ Indian Cultural Context (0-shot) , Bert Score ,0.86,0.56,0.88,0.87,0.88,0.87,0.87,0.89
+ Grammar Correction (5-shot) , Bert Score ,0.96,0.94,0.98,0.95,0.98,0.96,0.96,0.97
+ Multi Turn (0-shot) , Bert Score ,0.88,0.87,0.91,0.88,0.9,0.89,0.89,0.92
+ Multi Turn Comprehension (0-shot) , Bert Score ,0.9,0.89,0.92,0.92,0.93,0.91,0.91,0.94
+ Multi Turn Translation (0-shot) , Bert Score ,0.85,0.87,0.92,0.89,0.91,0.9,0.91,0.92
+ Text Classification (5-shot) , Accuracy ,0.61,0.71,0.76,0.72,0.88,0.82,0.86,0.89
+ Named Entity Recognition (5-shot) , Accuracy ,0.31,0.51,0.53,0.55,0.61,0.61,0.65,0.65

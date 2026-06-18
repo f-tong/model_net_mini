@@ -1,0 +1,8 @@
+ Model , Acc. on ImageReward test set (%) , Acc. on HPD v2 test set (%) , Acc. on new test set (%) 
+ Aesthetic Score Predictor ,57.4,76.8,57.8
+ ImageReward ,65.1,74.0,67.4
+ HPS ,61.2,77.6,66.8
+ PickScore ,62.9,79.8,67.8
+ Single Human ,65.3,78.1,65.4
+ HPS v2 ,65.7,83.3,73.2
+ HPS v2.1 ,66.8,84.1,74.8

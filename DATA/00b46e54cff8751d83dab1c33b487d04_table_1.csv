@@ -1,0 +1,4 @@
+  , Non-distributed optim , Distributed optim 
+" fp16 param, fp16 grads ",20, 4 + 16/d 
+" bf16 param, fp32 grads ",18, 6 + 12/d 
+" fp32 param, fp32 grads ",16, 8 + 8/d 

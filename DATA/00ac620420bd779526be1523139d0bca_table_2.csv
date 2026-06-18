@@ -1,0 +1,4 @@
+ Submission Name , Accuracy 
+ Human baseline (crowdsourced) ,0.897
+ Flan-T5 ,0.892
+ lora-t0-3b ,0.863

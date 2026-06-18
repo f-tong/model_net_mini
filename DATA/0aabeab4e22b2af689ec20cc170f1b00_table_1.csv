@@ -1,0 +1,5 @@
+ Model , Params , Layers , Model dim. , ckpt , config , log 
+ TokenFormer-150M , 150M ,12,768, ckpt , config , log 
+ TokenFormer-450M , 450M ,24,1024, ckpt , config , log 
+ TokenFormer-900M , 900M ,32,1280, ckpt , config , log 
+ TokenFormer-1-5B , 1-5B ,40,1536, ckpt , config , log 

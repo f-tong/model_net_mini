@@ -1,0 +1,4 @@
+ Model , Accuracy [%] 
+ ULMFiT ,93.8
+ BERTje ,93.0
+ RobBERT v2 ,95.1

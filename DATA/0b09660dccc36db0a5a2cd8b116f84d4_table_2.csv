@@ -1,0 +1,20 @@
+                      Task                      ,Version,       Metric        ,Value,   ,Stderr
+bigbench_causal_judgement                       ,      0,multiple_choice_grade,54.21,±  ,3.62
+bigbench_date_understanding                     ,      0,multiple_choice_grade,66.4,±  ,2.46
+bigbench_disambiguation_qa                      ,      0,multiple_choice_grade,54.65,±  ,3.11
+bigbench_geometric_shapes                       ,      0,multiple_choice_grade,13.09,±  ,1.78
+,,exact_str_match      ,1.11,±  ,0.55
+bigbench_logical_deduction_five_objects         ,      0,multiple_choice_grade,26.0,±  ,1.96
+bigbench_logical_deduction_seven_objects        ,      0,multiple_choice_grade,18.43,±  ,1.47
+bigbench_logical_deduction_three_objects        ,      0,multiple_choice_grade,39.33,±  ,2.83
+bigbench_movie_recommendation                   ,      0,multiple_choice_grade,33.4,±  ,2.11
+bigbench_navigate                               ,      0,multiple_choice_grade,53.6,±  ,1.58
+bigbench_reasoning_about_colored_objects        ,      0,multiple_choice_grade,64.7,±  ,1.07
+bigbench_ruin_names                             ,      0,multiple_choice_grade,37.95,±  ,2.3
+bigbench_salient_translation_error_detection    ,      0,multiple_choice_grade,12.83,±  ,1.06
+bigbench_snarks                                 ,      0,multiple_choice_grade,61.33,±  ,3.63
+bigbench_sports_understanding                   ,      0,multiple_choice_grade,50.91,±  ,1.59
+bigbench_temporal_sequences                     ,      0,multiple_choice_grade,40.8,±  ,1.55
+bigbench_tracking_shuffled_objects_five_objects ,      0,multiple_choice_grade,22.72,±  ,1.19
+bigbench_tracking_shuffled_objects_seven_objects,      0,multiple_choice_grade,15.31,±  ,0.86
+bigbench_tracking_shuffled_objects_three_objects,      0,multiple_choice_grade,39.33,±  ,2.83

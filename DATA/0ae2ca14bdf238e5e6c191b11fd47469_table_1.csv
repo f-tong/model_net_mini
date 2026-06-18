@@ -1,0 +1,10 @@
+ Backend , Target devices 
+ Metal , Apple Silicon 
+ BLAS , All 
+ BLIS , All 
+ SYCL , Intel and Nvidia GPU 
+ MUSA , Moore Threads MTT GPU 
+ CUDA , Nvidia GPU 
+ hipBLAS , AMD GPU 
+ Vulkan , GPU 
+ CANN , Ascend NPU 

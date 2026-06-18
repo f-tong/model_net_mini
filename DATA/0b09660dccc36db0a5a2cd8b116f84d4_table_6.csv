@@ -1,0 +1,6 @@
+Task ,Version,              Metric               ,Value
+gsm8k,      3,"exact_match,strict-match           ", 0.46
+,,"exact_match_stderr,strict-match    ", 0.01
+,,"exact_match,flexible-extract       ", 0.47
+,,"exact_match_stderr,flexible-extract", 0.01
+,,alias                              ,gsm8k

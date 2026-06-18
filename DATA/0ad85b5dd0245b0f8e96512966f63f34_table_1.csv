@@ -1,0 +1,8 @@
+ Language , Base Model 
+ English , sentence-transformers/multi-qa-mpnet-base-dot-v1 
+ Japanese , oshizo/sbert-jsnli-luke-japanese-base-lite 
+ French , dangvantuan/sentence-camembert-large 
+ Chinese , DMetaSoul/sbert-chinese-qmc-domain-v1 
+ Spanish , hiiamsid/sentence_similarity_spanish_es 
+ German , Sahajtomar/German-semantic 
+ Multilingual , sentence-transformers/paraphrase-multilingual-mpnet-base-v2 

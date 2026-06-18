@@ -1,0 +1,2 @@
+ Model , Layers , Hidden Size , Params , Max<br/>Seq Len , Learning<br/>Rate , Batch Size , Train Steps  , Train Time 
+ Dialog-KoELECTRA-Small ,12,256, 14M ,128,0.0001,512, 1M , 28일 

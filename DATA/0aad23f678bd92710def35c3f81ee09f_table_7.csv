@@ -1,0 +1,22 @@
+ Model , Decoder method , EM , F1-Score 
+ BERT-base-ro , - ,47.89,63.74
+ RoDiBERT , - ,21.76,34.57
+ RoBERT-small , - ,30.84,45.17
+ RoBERT-base , - ,53.52,70.04
+ RoBERT-large , - ,55.46,69.64
+ mBERT , - ,59.9,72.7
+ XLM-R Large , - ,69.7,83.6
+ RoGPT2-base , Greedy ,23.69,35.97
+ RoGPT2-base , Beam-search-4 ,24.11,35.27
+ RoGPT2-medium , Greedy ,29.66,44.74
+ RoGPT2-medium , Beam-search-4 ,31.59,45.32
+ RoGPT2-large , Greedy ,29.74,42.98
+ RoGPT2-large , Beam-search-4 ,29.66,43.05
+ RoGPT2-base-en-ro , Greedy ,23.86,34.27
+ RoGPT2-base-en-ro , Beam-search-4 ,25.04,34.51
+ RoGPT2-medium-en-ro , Greedy ,27.05,39.75
+ RoGPT2-medium-en-ro , Beam-search-4 ,27.64,39.11
+ RoGPT2-large-en-ro , Greedy ,28.4,39.79
+ RoGPT2-large-en-ro , Beam-search-4 ,28.73,39.71
+ RoGPT2-large-en-ro-mask , Greedy ,31.34,44.71
+ RoGPT2-large-en-ro-mask , Beam-search-4 ,31.59,43.53

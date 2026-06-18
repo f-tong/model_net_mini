@@ -1,0 +1,8 @@
+ Task , Training Sets , Backbone , Download 
+ DIS , DIS5K-TR , swin_v1_large , google-drive 
+ COD ," COD10K-TR, CAMO-TR ", swin_v1_large , google-drive 
+ HRSOD , DUTS-TR , swin_v1_large , google-drive 
+ HRSOD ," DUTS-TR, HRSOD-TR ", swin_v1_large , google-drive 
+ HRSOD ," DUTS-TR, UHRSD-TR ", swin_v1_large , google-drive 
+ HRSOD ," HRSOD-TR, UHRSD-TR ", swin_v1_large , google-drive 
+ HRSOD ," DUTS-TR, HRSOD-TR, UHRSD-TR ", swin_v1_large , google-drive 

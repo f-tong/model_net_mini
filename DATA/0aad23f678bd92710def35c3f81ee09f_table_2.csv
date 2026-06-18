@@ -1,0 +1,4 @@
+ Version , Number of parameters , Number of epoch , Duration of an epoch , Context size , Batch size , PPL 
+ Base , 124M ,15, 7h ,1024,72,22.96
+ Medium , 354M ,10, 22h ,1024,24,17.64
+ Large , 774M ,5, 45h ,512,16,16.77

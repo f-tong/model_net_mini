@@ -1,0 +1,5 @@
+ Model , Hardware , num of examples (seq len = 1024) , Batch Size , Num of Steps , Time (in days) 
+ AraGPT2-base , TPUv3-128 , 9.7M ,1792, 125K ,1.5
+ AraGPT2-medium , TPUv3-8 , 9.7M ,80, 1M ,15.0
+ AraGPT2-large , TPUv3-128 , 9.7M ,256, 220k ,3.0
+ AraGPT2-mega , TPUv3-128 , 9.7M ,256, 800K ,9.0

@@ -1,0 +1,4 @@
+ Base Model                          , Task    , Method                 , Fine-tuned Model                                
+ sqft-llama-3-8b-50-base<sup></sup> , GSM8K   , SQFT + SparsePEFT      , sqft-sparsepeft-llama-3-8b-50-gsm8k-heu         
+ sqft-llama-3-8b-50-base-gptq        , GSM8K   , SQFT                   , sqft-llama-3-8b-50-gptq-gsm8k-heu-adapter       
+ sqft-llama-3-8b-50-base-gptq        , GSM8K   , SQFT + QA-SparsePEFT   , sqft-qa-sparsepeft-llama-3-8b-50-gptq-gsm8k-heu 

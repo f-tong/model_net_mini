@@ -1,0 +1,12 @@
+ Model , Decoder method , Ro-En , En-Ro 
+ mBART , - , 38.5 ,38.5
+ OpenNMT , - , - ,24.7
+ RoGPT2-base , Greedy , 30.37 ,20.27
+ RoGPT2-base , Beam-search-4 , 31.26 ,22.31
+ RoGPT2-base , Beam-search-8 , 31.39 ,22.95
+ RoGPT2-medium , Greedy , 32.48 ,22.18
+ RoGPT2-medium , Beam-search-4 , 34.08 ,24.03
+ RoGPT2-medium , Beam-search-8 , 34.16 ,24.13
+ RoGPT2-large , Greedy , 33.69 ,23.31
+ RoGPT2-large , Beam-search-4 , 34.40 ,24.23
+ RoGPT2-large , Beam-search-8 , 34.51 ,24.32

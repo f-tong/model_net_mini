@@ -1,0 +1,5 @@
+ Mode , Performance , Inference Speed (tok/s) , Memory (GB) 
+ exact ,73.0,17.2,18.3
+ speed (CUDA-only) ,73.0,62.0,19.0
+ memory ,72.1,13.8,7.3
+ memory_extreme ,72.1,13.8,7.3

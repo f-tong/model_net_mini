@@ -1,0 +1,7 @@
+ Task , Training Sets , Backbone , Test Set ," Metric (S, wF[, HCE]) ", Download 
+ general use (2048x2048) ," AIM-500, DIS-TR, DIS-TEs, HIM2K, PPM-100, TE-HRS10K, TE-Human-2k, TE-P3M-500-P, TR-AM-2k, TR-HRSOD, TR-UHRSD, Distinctions-646_BG-20k, Human-2k_BG-20k, TE-AM-2k, TE-HRSOD, TE-P3M-500-NP, TE-UHRSD, TR-HRS10K, TR-P3M-10k,TR-humans ", swin_v1_large , DIS-VD ," 0.927, 0.894, 881 ", google-drive 
+ general use ," DIS5K-TR, DIS-TEs, DUTS-TR_TE, HRSOD-TR_TE, UHRSD-TR_TE, HRS10K-TR_TE, TR-P3M-10k, TE-P3M-500-NP, TE-P3M-500-P,TR-humans ", swin_v1_large , DIS-VD ," 0.911, 0.875, 1069 ", google-drive 
+ general use ," DIS5K-TR, DIS-TEs, DUTS-TR_TE, HRSOD-TR_TE, UHRSD-TR_TE, HRS10K-TR_TE, TR-P3M-10k, TE-P3M-500-NP, TE-P3M-500-P,TR-humans ", swin_v1_tiny , DIS-VD ," 0.882, 0.830, 1175 ", google-drive 
+ general use ," DIS5K-TR, DIS-TEs ", swin_v1_large , DIS-VD ," 0.907, 0.865, 1059 ", google-drive 
+ general matting ," P3M-10k (except TE-P3M-500-NP),TR-humans, AM-2k, AIM-500, Human-2k (synthesized with BG-20k), Distinctions-646 (synthesized with BG-20k), HIM2K, PPM-100 ", swin_v1_large , TE-P3M-500-NP ," 0.979, 0.988 ", google-drive 
+ portrait matting ," P3M-10k,humans ", swin_v1_large , P3M-500-P ," 0.983, 0.989 ", google-drive 

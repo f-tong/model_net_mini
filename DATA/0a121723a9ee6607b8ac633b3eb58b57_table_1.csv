@@ -1,0 +1,3 @@
+ Model , MODEL_NAME 
+ ElasticBERT-BASE , fnlp/elasticbert-base 
+ ElasticBERT-LARGE , fnlp/elasticbert-large 

@@ -1,0 +1,7 @@
+per CPU  ,  per GPU ,   Options
+169.44GB ,   0.49GB ," offload_param=cpu , offload_optimizer=cpu , zero_init=1"
+169.44GB ,   0.49GB ," offload_param=cpu , offload_optimizer=cpu , zero_init=0"
+150.62GB ,   3.63GB ," offload_param=none, offload_optimizer=cpu , zero_init=1"
+150.62GB ,   3.63GB ," offload_param=none, offload_optimizer=cpu , zero_init=0"
+2.93GB ,  28.73GB ," offload_param=none, offload_optimizer=none, zero_init=1"
+150.62GB ,  28.73GB ," offload_param=none, offload_optimizer=none, zero_init=0"

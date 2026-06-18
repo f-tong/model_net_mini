@@ -1,0 +1,14 @@
+ Benchmark , Krutrim-1-7B , MN-12B-Instruct , Krutrim-2-12B , llama-3.3-70B , Gemini-1.5 Flash , GPT-4o 
+ Hellaswag (0-shot) - Accuracy ,0.74,0.82,0.83, 0.95 , 0.87 (10-shot) , 0.95 (10-shot) 
+ Winogrande (0-shot) - Accuracy ,0.67,0.74,0.77, 0.85 (5-shot) , - , 0.88 (5-shot) 
+ OpenBookQA (0-shot) - Accuracy ,0.45,0.46,0.49, - , - , - 
+ CommonSenseQA (0-shot) - Accuracy ,0.74,0.7,0.74, - , - , 0.85 
+ TruthfulQA (0-shot) - Accuracy ,0.49,0.54,0.59, - , - , 0.59 
+ MMLU (5-shot) - Accuracy ,0.47,0.68,0.63, 0.82 , 0.79 , 0.86 
+ TriviaQA (5-shot) - EM ,0.44,0.72,0.62, - , - , - 
+ NaturalQuestions (5-shot) - EM ,0.15,0.28,0.26, - , - , - 
+ GSM8K (0-shot) - EM ,0.07,0.74,0.71," 0.93 (8-shot, CoT) ", 0.86 (11-shot) , 0.89 
+ ARC_Challenge (0-shot) - Accuracy ,0.48,0.59,0.6, 0.93 (25-shot) , - , 0.50 
+ ARC_Easy (0-shot) - Accuracy ,0.73,0.8,0.82, - , - , - 
+ HumanEval - Pass@10 ,0.0,0.23,0.8, 0.88 , 0.74 (0-shot) , 0.90 
+ IF_Eval (0-shot) - Accuracy ,0.27,0.46,0.73, 0.92 , - , 0.84 

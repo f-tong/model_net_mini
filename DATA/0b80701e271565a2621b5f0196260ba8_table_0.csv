@@ -1,0 +1,4 @@
+ Epoch , Training Loss , Validation Loss , Rouge1 , Rouge2 , Rougel , Rougelsum , Gen Len 
+1, No log ,0.34184,18.2429,0.5482,18.2058,18.2291,7.0
+2, No log ,0.333408,17.483,2.0528,16.6588,16.677,15.75
+3, No log ,0.333202,19.9994,3.3163,18.79,18.7683,13.5
