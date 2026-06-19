@@ -17,21 +17,21 @@
 682                           English models       cell            2.863573e-04
 5516                                     ...       cell            2.575725e-04 - no, in one table, blank row
 630                                      N/A       cell            2.560339e-04
-105                                   cosine       cell            2.252819e-04
+105                                   cosine       cell            2.252819e-04 - ?, not sure what it means in each context DATA_ALL/01bc931da9_table3.csv DATA_ALL/000cf1cbc7_table2.csv
 4853                                 Spanish       cell            2.145980e-04
-4808                                  German       cell            2.145980e-04
+4808                                  German       cell            2.145980e-04 - no, all languages - some "Language" others "Lang"
 4790                                  French       cell            2.145980e-04
-4800                                 English       cell            2.145980e-04
+4800                                 English       cell            2.145980e-04 - no, all languages
 4565                                       –       cell            1.576509e-04
-1178                                    Code       cell            1.539088e-04
+1178                                    Code       cell            1.539088e-04 - yes, benchmark & unnamed attribute DATA_ALL/00be9b98b9_table3.csv DATA_ALL/01d6f5214d_table1.csv
 2549                                  MinerU       cell            1.239366e-04
-2562                                  Marker       cell            1.239366e-04
+2562                                  Marker       cell            1.239366e-04 - yes, model & method DATA_ALL/01c38e924a_table3.csv DATA_ALL/01c38e924a_table4.csv
 4551                                    SRCC       cell            1.086124e-04
-4552                                    PLCC       cell            9.897118e-05
+4552                                    PLCC       cell            9.897118e-05 - no, 1 table
 5108                                  Greedy       cell            8.189560e-05
-2665                             Mistral OCR       cell            6.240977e-05
+2665                             Mistral OCR       cell            6.240977e-05 - yes, model & method DATA_ALL/01c38e924a_table5.csv DATA_ALL/01c38e924a_table3.csv
 4922                                  config       cell            5.139911e-05
-3531                    Token Classification       cell            3.031313e-05
+3531                    Token Classification       cell            3.031313e-05 - no, 1 table
 8                                  EM              cell            2.630057e-05
 5494                              Code Llama       cell            1.673236e-05
 5497                               CodeGemma       cell            1.673236e-05
