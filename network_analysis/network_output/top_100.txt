@@ -1,21 +1,21 @@
                                          node node_type  betweenness_centrality
-2546                                      EN       cell            5.677353e-03
+2546                                      EN       cell            5.677353e-03 - yes (language, "OverallEdit↓") DATA_ALL/00a3114f9a_table3.csv, DATA_ALL/0ad2cd040c238c2606edea65366e5520_table_1.csv
 2547                                      ZH       cell            4.144860e-03
-2060                                     QPD       cell            3.466675e-03
+2060                                     QPD       cell            3.466675e-03 - no?, only found in 1 table
 2059                Maximum throughput (QPS)       cell            2.606645e-03
-4647   MLLMs for Image Aesthetics Assessment       cell            1.549325e-03
+4647   MLLMs for Image Aesthetics Assessment       cell            1.549325e-03 - no? , only found in 1 table
 4553                      Traditional Models       cell            1.549325e-03
-4867                                  Polish       cell            1.314222e-03
+4867                                  Polish       cell            1.314222e-03 - 1 table - yes, dataset, language DATA_ALL/0a8170d64cb1777ee0beb5a9647f9ce6_table_1.csv
 6242                                     TBD       cell            1.164774e-03
-1139                                   Total       cell            7.165776e-04
+1139                                   Total       cell            7.165776e-04 - yes - total components, total parameters, DATA_ALL/0a989a7f998b02cf79f841b3383181c6_table_1.csv DATA_ALL/0a8170d64cb1777ee0beb5a9647f9ce6_table_1.csv:
 2057                                   Model       cell            5.108658e-04
-4849                                       /       cell            4.087888e-04
+4849                                       /       cell            4.087888e-04 - yes, not useful, null
 1186                            Multilingual       cell            4.085347e-04
-2766                                     Mix       cell            3.069763e-04
+2766                                     Mix       cell            3.069763e-04 - yes, language, model type DATA_ALL/0a8170d64cb1777ee0beb5a9647f9ce6_table_1.csv DATA_ALL/01c38e924a_table3.csv
 690                            Polish models       cell            2.863573e-04
-709                               Qra models       cell            2.863573e-04
+709                               Qra models       cell            2.863573e-04 - no, in 1 table
 682                           English models       cell            2.863573e-04
-5516                                     ...       cell            2.575725e-04
+5516                                     ...       cell            2.575725e-04 - no, in one table, blank row
 630                                      N/A       cell            2.560339e-04
 105                                   cosine       cell            2.252819e-04
 4853                                 Spanish       cell            2.145980e-04
