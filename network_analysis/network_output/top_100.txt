@@ -1,0 +1,101 @@
+                                         node node_type  betweenness_centrality
+2546                                      EN       cell            5.677353e-03
+2547                                      ZH       cell            4.144860e-03
+2060                                     QPD       cell            3.466675e-03
+2059                Maximum throughput (QPS)       cell            2.606645e-03
+4647   MLLMs for Image Aesthetics Assessment       cell            1.549325e-03
+4553                      Traditional Models       cell            1.549325e-03
+4867                                  Polish       cell            1.314222e-03
+6242                                     TBD       cell            1.164774e-03
+1139                                   Total       cell            7.165776e-04
+2057                                   Model       cell            5.108658e-04
+4849                                       /       cell            4.087888e-04
+1186                            Multilingual       cell            4.085347e-04
+2766                                     Mix       cell            3.069763e-04
+690                            Polish models       cell            2.863573e-04
+709                               Qra models       cell            2.863573e-04
+682                           English models       cell            2.863573e-04
+5516                                     ...       cell            2.575725e-04
+630                                      N/A       cell            2.560339e-04
+105                                   cosine       cell            2.252819e-04
+4853                                 Spanish       cell            2.145980e-04
+4808                                  German       cell            2.145980e-04
+4790                                  French       cell            2.145980e-04
+4800                                 English       cell            2.145980e-04
+4565                                       –       cell            1.576509e-04
+1178                                    Code       cell            1.539088e-04
+2549                                  MinerU       cell            1.239366e-04
+2562                                  Marker       cell            1.239366e-04
+4551                                    SRCC       cell            1.086124e-04
+4552                                    PLCC       cell            9.897118e-05
+5108                                  Greedy       cell            8.189560e-05
+2665                             Mistral OCR       cell            6.240977e-05
+4922                                  config       cell            5.139911e-05
+3531                    Token Classification       cell            3.031313e-05
+8                                  EM              cell            2.630057e-05
+5494                              Code Llama       cell            1.673236e-05
+5497                               CodeGemma       cell            1.673236e-05
+5514                             DeepSeek AI       cell            1.300123e-05
+5503                      Microsoft Research       cell            1.300123e-05
+5492                                 Meta AI       cell            1.300123e-05
+5498                                  Google       cell            1.300123e-05
+5507                           Alibaba Group       cell            1.300123e-05
+5141                                   mBERT       cell            1.267749e-05
+5499            Google Team, Google Deepmind       cell            1.199290e-05
+2290                    Spearman Correlation       cell            9.039320e-06
+5343                                 ChatGPT       cell            4.327334e-06
+3530                 Sequence Classification       cell            3.894601e-06
+131                                       ±        cell            1.947300e-06
+1158                                    MMLU       cell            1.923260e-06
+1171                                    MATH       cell            1.923260e-06
+1179                                    MBPP       cell            1.923260e-06
+6056                                  BERTje       cell            1.762988e-06
+4699                                    None       cell            9.616298e-07
+127                                    none        cell            8.895075e-07
+453                   Optimizer                    cell            7.693038e-07
+441                   Learning rate                cell            7.693038e-07
+5651                                  N/A          cell            6.731408e-07
+2318                                   AdamW       cell            6.368855e-07
+4385                               FuseDream       cell            4.692628e-07
+4396                                  LAFITE       cell            4.692628e-07
+2406           en                                  cell            3.245500e-07
+2407           nl                                  cell            3.245500e-07
+6093                                      ✔️       cell            2.884889e-07
+4712                             Librispeech       cell            2.884889e-07
+4128                                    ckpt       cell            2.884889e-07
+4707                                    STOP       cell            2.884889e-07
+5404                              Checkpoint       cell            2.884889e-07
+5403                            Config Files       cell            2.884889e-07
+2405            nl                                 cell            2.884889e-07
+2404            en                                 cell            2.884889e-07
+5037                                RoDiBERT       cell            2.103565e-07
+4705                                  HuBERT       cell            1.682852e-07
+987                                nanollava       cell            1.442445e-07
+4692                                    link       cell            1.442445e-07
+5436                                Download       cell            1.442445e-07
+1477                                       #       cell            1.442445e-07
+6099                                       ✅       cell            1.442445e-07
+253                                  acc           cell            9.616298e-08
+840                    Avg.                        cell            7.984961e-08
+1488                                   N/A         cell            7.212223e-08
+1484                                 wikitext      cell            7.212223e-08
+129                                       ↑        cell            4.808149e-08
+6228                                Accuracy       cell            4.808149e-08
+6246                              Bert Score       cell            4.808149e-08
+348                              map               cell            4.808149e-08
+2655                                  Nougat       cell            3.981408e-08
+2575                                 Mathpix       cell            3.981408e-08
+2720                                 OCRFlux       cell            3.981408e-08
+2701                                 Dolphin       cell            3.981408e-08
+1487                          word_perplexity      cell            3.606112e-08
+1489                          byte_perplexity      cell            3.606112e-08
+1491                          bits_per_byte        cell            3.606112e-08
+5454                                Japanese       cell            3.434392e-08
+5456                                 Chinese       cell            3.434392e-08
+1001                     spearman_manhattan        cell            2.884889e-08
+999                      pearson_manhattan         cell            2.884889e-08
+997                          spearman_cosine       cell            2.884889e-08
+995                      pearson_cosine            cell            2.884889e-08
+1012                     spearman_max              cell            2.884889e-08
+1011                     pearson_max               cell            2.884889e-08
+1009                     spearman_dot              cell            2.884889e-08
