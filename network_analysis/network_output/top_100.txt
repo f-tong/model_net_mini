@@ -33,21 +33,21 @@
 4922                                  config       cell            5.139911e-05
 3531                    Token Classification       cell            3.031313e-05 - no, 1 table
 8                                  EM              cell            2.630057e-05
-5494                              Code Llama       cell            1.673236e-05
+5494                              Code Llama       cell            1.673236e-05 - no, model - 2 related tables
 5497                               CodeGemma       cell            1.673236e-05
-5514                             DeepSeek AI       cell            1.300123e-05
+5514                             DeepSeek AI       cell            1.300123e-05 - no, author - 2 related tables
 5503                      Microsoft Research       cell            1.300123e-05
-5492                                 Meta AI       cell            1.300123e-05
+5492                                 Meta AI       cell            1.300123e-05 - no, author, related tables
 5498                                  Google       cell            1.300123e-05
-5507                           Alibaba Group       cell            1.300123e-05
+5507                           Alibaba Group       cell            1.300123e-05 - no, author, related tables
 5141                                   mBERT       cell            1.267749e-05
 5499            Google Team, Google Deepmind       cell            1.199290e-05
 2290                    Spearman Correlation       cell            9.039320e-06
-5343                                 ChatGPT       cell            4.327334e-06
+5343                                 ChatGPT       cell            4.327334e-06 - ?, Model + no attr name DATA_ALL/0abde651017c9a5b4258b901b36026c8_table_0.csv DATA_ALL/0b12e9455ac54973fc1b2b870ec5e808_table_4.csv
 3530                 Sequence Classification       cell            3.894601e-06
-131                                       ±        cell            1.947300e-06
+131                                       ±        cell            1.947300e-06 - no, overall symbol usage/formatting for stderr
 1158                                    MMLU       cell            1.923260e-06
-1171                                    MATH       cell            1.923260e-06
+1171                                    MATH       cell            1.923260e-06 - ? benchmark & no attr name DATA_ALL/00be9b98b9_table3.csv DATA_ALL/01d6f5214d_table1.csv
 1179                                    MBPP       cell            1.923260e-06
 6056                                  BERTje       cell            1.762988e-06
 4699                                    None       cell            9.616298e-07
