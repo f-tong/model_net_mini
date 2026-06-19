@@ -1,38 +1,38 @@
                                          node node_type  betweenness_centrality
 2546                                      EN       cell            5.677353e-03 - yes (language, "OverallEdit↓") DATA_ALL/00a3114f9a_table3.csv, DATA_ALL/0ad2cd040c238c2606edea65366e5520_table_1.csv
-2547                                      ZH       cell            4.144860e-03
+2547                                      ZH       cell            4.144860e-03 - no, only found in 1 table
 2060                                     QPD       cell            3.466675e-03 - no?, only found in 1 table
-2059                Maximum throughput (QPS)       cell            2.606645e-03
+2059                Maximum throughput (QPS)       cell            2.606645e-03 - no, only found in 1 table
 4647   MLLMs for Image Aesthetics Assessment       cell            1.549325e-03 - no? , only found in 1 table
-4553                      Traditional Models       cell            1.549325e-03
+4553                      Traditional Models       cell            1.549325e-03 - no, only found in 1 table
 4867                                  Polish       cell            1.314222e-03 - 1 table - yes, dataset, language DATA_ALL/0a8170d64cb1777ee0beb5a9647f9ce6_table_1.csv
-6242                                     TBD       cell            1.164774e-03
+6242                                     TBD       cell            1.164774e-03 - yes, refers to multiple attributes
 1139                                   Total       cell            7.165776e-04 - yes - total components, total parameters, DATA_ALL/0a989a7f998b02cf79f841b3383181c6_table_1.csv DATA_ALL/0a8170d64cb1777ee0beb5a9647f9ce6_table_1.csv:
-2057                                   Model       cell            5.108658e-04
+2057                                   Model       cell            5.108658e-04 - yes, e.g. language model or video/audio model
 4849                                       /       cell            4.087888e-04 - yes, not useful, null
-1186                            Multilingual       cell            4.085347e-04
+1186                            Multilingual       cell            4.085347e-04 - no
 2766                                     Mix       cell            3.069763e-04 - yes, language, model type DATA_ALL/0a8170d64cb1777ee0beb5a9647f9ce6_table_1.csv DATA_ALL/01c38e924a_table3.csv
-690                            Polish models       cell            2.863573e-04
+690                            Polish models       cell            2.863573e-04 - no
 709                               Qra models       cell            2.863573e-04 - no, in 1 table
-682                           English models       cell            2.863573e-04
+682                           English models       cell            2.863573e-04 - no
 5516                                     ...       cell            2.575725e-04 - no, in one table, blank row
-630                                      N/A       cell            2.560339e-04
+630                                      N/A       cell            2.560339e-04 - no, all version nulls
 105                                   cosine       cell            2.252819e-04 - ?, not sure what it means in each context DATA_ALL/01bc931da9_table3.csv DATA_ALL/000cf1cbc7_table2.csv
-4853                                 Spanish       cell            2.145980e-04
+4853                                 Spanish       cell            2.145980e-04 - yes, language of model/language of dataset
 4808                                  German       cell            2.145980e-04 - no, all languages - some "Language" others "Lang"
-4790                                  French       cell            2.145980e-04
+4790                                  French       cell            2.145980e-04 - yes, language of model/language of dataset
 4800                                 English       cell            2.145980e-04 - no, all languages
-4565                                       –       cell            1.576509e-04
+4565                                       –       cell            1.576509e-04 - yes, multiple null meanings
 1178                                    Code       cell            1.539088e-04 - yes, benchmark & unnamed attribute DATA_ALL/00be9b98b9_table3.csv DATA_ALL/01d6f5214d_table1.csv
-2549                                  MinerU       cell            1.239366e-04
+2549                                  MinerU       cell            1.239366e-04 - no
 2562                                  Marker       cell            1.239366e-04 - yes, model & method DATA_ALL/01c38e924a_table3.csv DATA_ALL/01c38e924a_table4.csv
-4551                                    SRCC       cell            1.086124e-04
+4551                                    SRCC       cell            1.086124e-04 - no, only in 1 table
 4552                                    PLCC       cell            9.897118e-05 - no, 1 table
-5108                                  Greedy       cell            8.189560e-05
+5108                                  Greedy       cell            8.189560e-05 - no, all methods
 2665                             Mistral OCR       cell            6.240977e-05 - yes, model & method DATA_ALL/01c38e924a_table5.csv DATA_ALL/01c38e924a_table3.csv
-4922                                  config       cell            5.139911e-05
+4922                                  config       cell            5.139911e-05 - yes, dataset or generic config attribute
 3531                    Token Classification       cell            3.031313e-05 - no, 1 table
-8                                  EM              cell            2.630057e-05
+8                                  EM              cell            2.630057e-05 - no, only in 1 table
 5494                              Code Llama       cell            1.673236e-05
 5497                               CodeGemma       cell            1.673236e-05
 5514                             DeepSeek AI       cell            1.300123e-05
